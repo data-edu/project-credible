@@ -1,0 +1,22 @@
+---
+title: "Home"
+format-links: false
+---
+
+Welcome! I am an Associate Professor of STEM Education at the University of Tennessee, Knoxville.
+
+![](images/rosenberg-headshot-small-3.jpeg){fig-alt="headshot of Joshua Rosenberg" fig-align="center" width="268"}
+
+**Links/Resources/Affiliations**
+
+-   [Project CREDIBLE](https://projectcredible.com/) - NSF CAREER-funded project
+
+-   [College of Education, Health, and Human Sciences](https://cehhs.utk.edu/), University of Tennessee, Knoxville
+
+-   [College of Emerging and Collaborative Studies](https://cecs.utk.edu/), University of Tennessee, Knoxville
+
+-   [Educational Data Science Graduate Certificate](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/), University of Tennessee, Knoxville
+
+-   [Google Scholar profile](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en&oi=ao)
+
+-   [CV (PDF)](https://joshuamrosenberg.com/vita.pdf)
