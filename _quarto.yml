@@ -3,21 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Joshua M. Rosenberg, Ph.D."
+  title: "Project CREDIBLE"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About and Contact
-      - href: vita.html
-        text: Vita
-      - href: https://makingdatasciencecount.com/
-        text: Research Group
-      - href: https://joshuamrosenberg.substack.com/
-        text: Newsletter/Blog
-      - href: photography.qmd
-        text: Photography
 
 format:
   html:
