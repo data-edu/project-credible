@@ -1,8 +1,20 @@
 ---
-title: "Project CREDIBLE"
+title: "Creatively Reimagining Engagement With Data in Biology Learning Environments"
 format-links: false
 ---
 
-## Welcome!
+![](images/IMG_6819.jpeg){fig-align="center"}
 
-Welcome to the Project CREDIBLE website! This website is a collection of resources for the CREDIBLE project.
+Welcome to the Project CREDIBLE website! Project CREDIBLE is an NSF-funded STEM education research project associated with the University of Tennessee, Knoxville.
+
+This material is based upon work supported by the National Science Foundation under Grant No. 2239152
+
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+::: {style="display: flex; justify-content: center; align-items: center;"}
+<img src="images/CredibleMaster-02.jpg" width="100" height="100" style="margin-right: 10px;"/>
+
+<img src="images/clipboard-464706329.png" width="100" height="100" style="margin-right: 10px;"/>
+
+<img src="images/clipboard-236040836.png" width="75" height="75"/>
+:::

@@ -2,4 +2,49 @@
 title: "About"
 ---
 
-xx
+![](images/IMG_7034.jpeg){fig-align="center"}
+
+## Background
+
+Here's a high-level description of the project:
+
+> Prior research suggests that a Bayesian approach is needed and could be useful to science teachers and learners, especially in light of current science education standards and research that emphasizes the importance of learners analyzing data that is relevant to themselves and their environments. The overall purpose of this work is to advance a new approach to how middle and high school students analyze scientific data by adopting a Bayesian approach to analyze data. This purpose is instantiated through the development of a standards-aligned curricular unit, a digital tool, and a professional development plan that is implemented to emphasize students' data analyses with phenomena of interest, centering on middle and high school standards. DataClassroom is a web-based digital tool designed to engage students with data and build foundational skills for analysis and interpretation in the digital environment. The app facilitates the use of large datasets, a quick exploration of data visualizations, and statistical analysis, but DataClassroom does not yet permit the use of any Bayesian statistical methods.
+
+The original proposal for the project is [here](https://osf.io/wn9mx/).
+
+## University of Tennessee, Knoxville Team
+
+add photos for all UTK, DC, and GSMIT folks?
+
+-   *Joshua Rosenberg,* Associate Professor of STEM Education, University of Tennessee, Knoxville
+-   *Cody Pritchard*, Graduate Research Assistant, University of Tennessee, Knoxville
+-   *Amanda Garner*, Research Scientist, University of Tennessee, Knoxville
+
+## Data Classroom Team
+
+-   *Aaron Reedy*
+-   *Dan Temple*
+-   *Nigel Standish*
+
+## Great Smoky Mountains Institute at Tremont Team
+
+-   *John DiDiego*
+
+-   *Annie Roth*
+
+## Cohort 1 Teacher Partners
+
+![](images/IMG_6931.jpeg){fig-align="center"}
+
+-   *Jani Chollman*
+-   *Joanna Hughes*
+-   *Robin Jarmen*
+-   *David Krebs*
+-   *Renita Parks*
+-   *Jennifer Sauer*
+-   *Sheryl Snellmassie*
+-   *Heather Sexton*
+-   *Michelle Platt*
+-   *Heather Williams*
+
+## 

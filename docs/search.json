@@ -1,23 +1,58 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "tools-and-links.html",
+    "href": "tools-and-links.html",
+    "title": "Tools and Other Resources",
     "section": "",
-    "text": "xx"
+    "text": "add from: https://www.projectcredible.com/about-1"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "Background",
+    "text": "Background\nHere’s a high-level description of the project:\n\nPrior research suggests that a Bayesian approach is needed and could be useful to science teachers and learners, especially in light of current science education standards and research that emphasizes the importance of learners analyzing data that is relevant to themselves and their environments. The overall purpose of this work is to advance a new approach to how middle and high school students analyze scientific data by adopting a Bayesian approach to analyze data. This purpose is instantiated through the development of a standards-aligned curricular unit, a digital tool, and a professional development plan that is implemented to emphasize students’ data analyses with phenomena of interest, centering on middle and high school standards. DataClassroom is a web-based digital tool designed to engage students with data and build foundational skills for analysis and interpretation in the digital environment. The app facilitates the use of large datasets, a quick exploration of data visualizations, and statistical analysis, but DataClassroom does not yet permit the use of any Bayesian statistical methods.\n\nThe original proposal for the project is here."
+  },
+  {
+    "objectID": "about.html#university-of-tennessee-knoxville-team",
+    "href": "about.html#university-of-tennessee-knoxville-team",
+    "title": "About",
+    "section": "University of Tennessee, Knoxville Team",
+    "text": "University of Tennessee, Knoxville Team\nadd photos for all UTK, DC, and GSMIT folks?\n\nJoshua Rosenberg, Associate Professor of STEM Education, University of Tennessee, Knoxville\nCody Pritchard, Graduate Research Assistant, University of Tennessee, Knoxville\nAmanda Garner, Research Scientist, University of Tennessee, Knoxville"
+  },
+  {
+    "objectID": "about.html#data-classroom-team",
+    "href": "about.html#data-classroom-team",
+    "title": "About",
+    "section": "Data Classroom Team",
+    "text": "Data Classroom Team\n\nAaron Reedy\nDan Temple\nNigel Standish"
+  },
+  {
+    "objectID": "about.html#great-smoky-mountains-institute-at-tremont-team",
+    "href": "about.html#great-smoky-mountains-institute-at-tremont-team",
+    "title": "About",
+    "section": "Great Smoky Mountains Institute at Tremont Team",
+    "text": "Great Smoky Mountains Institute at Tremont Team\n\nJohn DiDiego\nAnnie Roth"
+  },
+  {
+    "objectID": "about.html#cohort-1-teacher-partners",
+    "href": "about.html#cohort-1-teacher-partners",
+    "title": "About",
+    "section": "Cohort 1 Teacher Partners",
+    "text": "Cohort 1 Teacher Partners\n\n\n\n\n\n\nJani Chollman\nJoanna Hughes\nRobin Jarmen\nDavid Krebs\nRenita Parks\nJennifer Sauer\nSheryl Snellmassie\nHeather Sexton\nMichelle Platt\nHeather Williams"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Project CREDIBLE",
+    "title": "Creatively Reimagining Engagement With Data in Biology Learning Environments",
     "section": "",
-    "text": "Welcome to the Project CREDIBLE website! This website is a collection of resources for the CREDIBLE project."
+    "text": "Welcome to the Project CREDIBLE website! Project CREDIBLE is an NSF-funded STEM education research project associated with the University of Tennessee, Knoxville.\nThis material is based upon work supported by the National Science Foundation under Grant No. 2239152\nAny opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Project CREDIBLE",
+    "objectID": "cohort-1.html",
+    "href": "cohort-1.html",
+    "title": "Cohort 1 Resources",
     "section": "",
-    "text": "Welcome to the Project CREDIBLE website! This website is a collection of resources for the CREDIBLE project."
+    "text": "add from https://www.projectcredible.com/2024-2025-cohort"
   }
 ]

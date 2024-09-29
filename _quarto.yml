@@ -9,7 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About and Contact
+        text: About
+      - text: Resources
+        menu:
+          - href: cohort-1.qmd
+            text: Cohort 1
+          - href: tools-and-links.qmd
+            text: Tools and Links
 
 format:
   html:
@@ -20,4 +26,3 @@ format:
     pdf-engine: xelatex
 
 editor: visual
-
