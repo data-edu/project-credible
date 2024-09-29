@@ -7,7 +7,7 @@ format-links: false
 
 Welcome to the Project CREDIBLE website! Project CREDIBLE is an NSF-funded STEM education research project associated with the University of Tennessee, Knoxville.
 
-This material is based upon work supported by the National Science Foundation under Grant No. 2239152
+This material is based upon work supported by the [National Science Foundation under Grant No. 2239152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152&HistoricalAwards=false).
 
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
