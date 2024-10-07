@@ -16,7 +16,7 @@ The original proposal for the project is [here](https://osf.io/wn9mx/).
 
 add photos for all UTK, DC, and GSMIT folks?
 
--   *Joshua Rosenberg,* Associate Professor of STEM Education, University of Tennessee, Knoxville
+-   *Joshua Rosenberg (*[jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu)*),* Associate Professor of STEM Education, University of Tennessee, Knoxville
 -   *Cody Pritchard*, Graduate Research Assistant, University of Tennessee, Knoxville
 -   *Amanda Garner*, Research Scientist, University of Tennessee, Knoxville
 
@@ -47,4 +47,6 @@ add photos for all UTK, DC, and GSMIT folks?
 -   *Michelle Platt*
 -   *Heather Williams*
 
-## 
+## Contact
+
+[projectcredible\@utk.edu](mailto:projectcredible@utk.edu)

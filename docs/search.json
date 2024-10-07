@@ -4,7 +4,14 @@
     "href": "tools-and-links.html",
     "title": "Tools and Other Resources",
     "section": "",
-    "text": "add from: https://www.projectcredible.com/about-1"
+    "text": "INaturalist\nINaturalist Help\nFieldscope\nData Nuggets\nRaw Data\nScience in the City\nDataClassroom\nData Puzzels\nWhere to Find Data Sets\nCODAP\nKentucky’s NGSS Assessment Tasks\nStanford’s NGSS Assessment Portal\nConcord Consortium’s NGSS Assessment Tasks"
+  },
+  {
+    "objectID": "tools-and-links.html#resources",
+    "href": "tools-and-links.html#resources",
+    "title": "Tools and Other Resources",
+    "section": "",
+    "text": "INaturalist\nINaturalist Help\nFieldscope\nData Nuggets\nRaw Data\nScience in the City\nDataClassroom\nData Puzzels\nWhere to Find Data Sets\nCODAP\nKentucky’s NGSS Assessment Tasks\nStanford’s NGSS Assessment Portal\nConcord Consortium’s NGSS Assessment Tasks"
   },
   {
     "objectID": "about.html#background",
@@ -18,7 +25,7 @@
     "href": "about.html#university-of-tennessee-knoxville-team",
     "title": "About",
     "section": "University of Tennessee, Knoxville Team",
-    "text": "University of Tennessee, Knoxville Team\nadd photos for all UTK, DC, and GSMIT folks?\n\nJoshua Rosenberg, Associate Professor of STEM Education, University of Tennessee, Knoxville\nCody Pritchard, Graduate Research Assistant, University of Tennessee, Knoxville\nAmanda Garner, Research Scientist, University of Tennessee, Knoxville"
+    "text": "University of Tennessee, Knoxville Team\nadd photos for all UTK, DC, and GSMIT folks?\n\nJoshua Rosenberg (jrosenb8@utk.edu), Associate Professor of STEM Education, University of Tennessee, Knoxville\nCody Pritchard, Graduate Research Assistant, University of Tennessee, Knoxville\nAmanda Garner, Research Scientist, University of Tennessee, Knoxville"
   },
   {
     "objectID": "about.html#data-classroom-team",
@@ -42,17 +49,73 @@
     "text": "Cohort 1 Teacher Partners\n\n\n\n\n\n\nJani Chollman\nJoanna Hughes\nRobin Jarmen\nDavid Krebs\nRenita Parks\nJennifer Sauer\nSheryl Snellmassie\nHeather Sexton\nMichelle Platt\nHeather Williams"
   },
   {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nprojectcredible@utk.edu"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Creatively Reimagining Engagement With Data in Biology Learning Environments",
     "section": "",
-    "text": "Welcome to the Project CREDIBLE website! Project CREDIBLE is an NSF-funded STEM education research project associated with the University of Tennessee, Knoxville.\nThis material is based upon work supported by the National Science Foundation under Grant No. 2239152\nAny opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
+    "text": "Welcome to the Project CREDIBLE website! Project CREDIBLE is an NSF-funded STEM education research project associated with the University of Tennessee, Knoxville.\nThis material is based upon work supported by the National Science Foundation under Grant No. 2239152.\nAny opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
   },
   {
     "objectID": "cohort-1.html",
     "href": "cohort-1.html",
     "title": "Cohort 1 Resources",
     "section": "",
-    "text": "add from https://www.projectcredible.com/2024-2025-cohort"
+    "text": "PD Schedule\nWelcome Letter"
+  },
+  {
+    "objectID": "cohort-1.html#logistics",
+    "href": "cohort-1.html#logistics",
+    "title": "Cohort 1 Resources",
+    "section": "",
+    "text": "PD Schedule\nWelcome Letter"
+  },
+  {
+    "objectID": "cohort-1.html#project-overview",
+    "href": "cohort-1.html#project-overview",
+    "title": "Cohort 1 Resources",
+    "section": "Project Overview",
+    "text": "Project Overview\n\nSlide Deck"
+  },
+  {
+    "objectID": "cohort-1.html#lichen-and-air-quality-workshop-materials",
+    "href": "cohort-1.html#lichen-and-air-quality-workshop-materials",
+    "title": "Cohort 1 Resources",
+    "section": "Lichen and Air-Quality Workshop Materials",
+    "text": "Lichen and Air-Quality Workshop Materials\n\nSlide Deck\nExtra Information on Lichens\nABCs of Data"
+  },
+  {
+    "objectID": "cohort-1.html#air-quality-investigations",
+    "href": "cohort-1.html#air-quality-investigations",
+    "title": "Cohort 1 Resources",
+    "section": "Air Quality Investigations",
+    "text": "Air Quality Investigations\n\nLichen Data Sheet\nCanopy Coverage Tool\nLichen Growth Forms Guide\nLesson Plan Resources\nGeneral Resources\nRaw Data for Teachers"
+  },
+  {
+    "objectID": "cohort-1.html#data-analysis",
+    "href": "cohort-1.html#data-analysis",
+    "title": "Cohort 1 Resources",
+    "section": "Data Analysis",
+    "text": "Data Analysis\n\nSlide Deck\nCODAP, Part 1\nCODAP, Part 2 (Getting Started with CODAP)\nCODAP Start-up Guide\nWorking with our Lichen Data\nFake Data\nLichen Data Entry"
+  },
+  {
+    "objectID": "cohort-1.html#unit-planning-sessions",
+    "href": "cohort-1.html#unit-planning-sessions",
+    "title": "Cohort 1 Resources",
+    "section": "Unit Planning Sessions",
+    "text": "Unit Planning Sessions\n\nSlide Deck\nSession Notes\nUnit Plan Examples\nAmbitious Science Teaching Chapter 2\nWorking Unit Plan (In progress)"
+  },
+  {
+    "objectID": "cohort-1.html#september-28th-pd-materials",
+    "href": "cohort-1.html#september-28th-pd-materials",
+    "title": "Cohort 1 Resources",
+    "section": "September 28th PD Materials",
+    "text": "September 28th PD Materials\n\nPD Overview Slide Deck\nINaturalist Info Sheet\nINaturalist Walkthrough Video\nUsing INaturalist with your Students\nAdditional INaturalist Resources\nSlide Deck: Working with INaturalist"
   }
 ]

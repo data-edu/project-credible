@@ -17,4 +17,3 @@ title: "Tools and Other Resources"
 -   [Kentucky's NGSS Assessment Tasks](https://www.education.ky.gov/curriculum/conpro/science/Pages/tct.aspx)
 -   [Stanford's NGSS Assessment Portal](https://scienceeducation.stanford.edu/)
 -   [Concord Consortium's NGSS Assessment Tasks](https://ngss-assessment.portal.concord.org/)
-
