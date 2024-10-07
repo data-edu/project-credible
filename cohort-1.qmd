@@ -2,4 +2,53 @@
 title: "Cohort 1 Resources"
 ---
 
-add from <https://www.projectcredible.com/2024-2025-cohort>
+## Logistics
+
+-   [PD Schedule](https://docs.google.com/spreadsheets/u/1/d/1lbs5EHNsPRz7WPxwOy46eII42zxn2T4Ck48eqQf-6MM/edit#gid=0)
+-   [Welcome Letter](https://docs.google.com/document/d/1HDRJc3JusTBC6qhro-PYFmGGok-y87ngFJaiYhNeYSU/edit)
+
+## Project Overview
+
+-   [Slide Deck](https://docs.google.com/document/d/1HDRJc3JusTBC6qhro-PYFmGGok-y87ngFJaiYhNeYSU/edit)
+
+## Lichen and Air-Quality Workshop Materials
+
+-   [Slide Deck](https://docs.google.com/presentation/d/1KMD6J9C4fECd_nOG-S13dU4j_3JoWvv-75fOyRN4q4g/edit?usp=sharing)
+-   [Extra Information on Lichens](https://docs.google.com/document/d/1y-8ilRuwaLegiiC4QvbKe0uZZUO07xZ_j4gFD32Fvzo/edit?usp=sharing)
+-   [ABCs of Data](https://docs.google.com/document/d/1giyIqZkXTtKAat7HYg4WTHORJRgEsnHDP9k-3Oqq-rY/edit?usp=drive_link)
+
+## Air Quality Investigations
+
+-   [Lichen Data Sheet](https://drive.google.com/file/d/1G38L6yA5o8yAqwql9UswhfbfV0jE3t_r/view?usp=drive_link)
+-   [Canopy Coverage Tool](https://drive.google.com/file/d/1qMhYVX_iNl1byiAE3mkuTJM419yvZmO7/view?usp=drive_link)
+-   [Lichen Growth Forms Guide](https://drive.google.com/file/d/17AGM604e-CnwT69TdhO-nNOVeLGCF1Wp/view?usp=drive_link)
+-   [Lesson Plan Resources](https://drive.google.com/drive/folders/1mWk4yunw_-HYhThL2GubRfwZ95s5mPTI?usp=drive_link)
+-   [General Resources](https://drive.google.com/drive/folders/1mlspP84Gm9z5DJXg3TuRcQ275spwOA6m?usp=drive_link)
+-   [Raw Data for Teachers](https://drive.google.com/drive/folders/1MnhRBhzsYrzPtU3QPfJPVAp0764XVtrV?usp=drive_link)
+
+## Data Analysis
+
+-   [Slide Deck](https://docs.google.com/presentation/d/1JV-nDUo-koad3nF7rH3v02TwBQHBnPKSC_5AP3zVxAc/edit?usp=sharing)
+-   [CODAP, Part 1](https://codap.concord.org/app/static/dg/en/cert/index.html#file=examples:Getting%20started%20with%20CODAP)
+-   [CODAP, Part 2 (Getting Started with CODAP)](https://codap.concord.org/app/static/dg/en/cert/index.html?url=https://concord-consortium.github.io/codap-data/example-documents/src/documents/get_started_2.codap)
+-   [CODAP Start-up Guide](https://codap.concord.org/wp-content/uploads/codap-start-up-guide.pdf)
+-   [Working with our Lichen Data](https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FWaBTKqmTehbxHSidXoOJ%2Ffile.json)
+-   [Fake Data](https://docs.google.com/spreadsheets/d/10MZiBKm6L_r0KfNOmmjhF7LOj2PSnD0C4UXqOnuJ7Jg/edit#gid=0)
+-   [Lichen Data Entry](https://docs.google.com/spreadsheets/d/1o103XfrZcfgaGruErqrP3K1ITAc2nQ2p3qzuDfl8vbA/edit#gid=487726477)
+
+## Unit Planning Sessions
+
+-   [Slide Deck](https://docs.google.com/presentation/d/1lMnhEQSoprVg4qEdbCmmnaOBMoxgIxYf/edit#slide=id.p6)
+-   [Session Notes](https://docs.google.com/document/d/1m-6KByNAGkEoykiszo3rCTRZ3rxoy1lxCAkLPoEghHY/edit)
+-   [Unit Plan Examples](https://drive.google.com/drive/folders/1ALLJbAqcjVmGKdWsBmlPzejL45lkEk04?usp=drive_link)
+-   [Ambitious Science Teaching Chapter 2](https://drive.google.com/file/d/1GHq_6U_OMNLgDmuAy-ECUHeF10fXxNdn/view?usp=drive_link)
+-   [Working Unit Plan (In progress)](https://docs.google.com/document/d/1vOJRRFksWWnHcjYPo-1exJIQ2MbfTLsZqRC431l5pFU/edit)
+
+## September 28th PD Materials
+
+-   [PD Overview Slide Deck](https://docs.google.com/presentation/d/1BxZir47_00v09a9A-BQicyb_AGIGveHs/edit#slide=id.g3064e890bdd_0_1005)
+-   [INaturalist Info Sheet](https://drive.google.com/file/d/1KQPMVMpQaAzNurFLOfQY05sdQwkC0Nk-/view)
+-   [INaturalist Walkthrough Video](https://drive.google.com/file/d/1a-L1bsbh_6RxvP2-7Pfv4PNYlK1XU7tz/view)
+-   [Using INaturalist with your Students](https://drive.google.com/file/d/1zEoUZEVrarGzNCPZYONcXzOhAN1KgjOa/view?usp=drive_link)
+-   [Additional INaturalist Resources](https://docs.google.com/document/d/1xb0HIGK0UtUIKO0ZKF_WLg4uErk4A1Y02ThpfgZU-IA/edit?usp=drive_link)
+-   [Slide Deck: Working with INaturalist](https://docs.google.com/presentation/d/1Grw2RPjqANBqqkPC0L0mznnCiX1wuz6UItMawE0_57k/edit?usp=sharing)
