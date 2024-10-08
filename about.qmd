@@ -1,52 +1,20 @@
 ---
-title: "About"
+title: "About the Project"
+format-links: false
 ---
 
-![](images/IMG_7034.jpeg){fig-align="center"}
+![](images/IMG_0839-01.jpeg){fig-align="center"}
 
-## Background
+## Project Abstract
 
-Here's a high-level description of the project:
-
-> Prior research suggests that a Bayesian approach is needed and could be useful to science teachers and learners, especially in light of current science education standards and research that emphasizes the importance of learners analyzing data that is relevant to themselves and their environments. The overall purpose of this work is to advance a new approach to how middle and high school students analyze scientific data by adopting a Bayesian approach to analyze data. This purpose is instantiated through the development of a standards-aligned curricular unit, a digital tool, and a professional development plan that is implemented to emphasize students' data analyses with phenomena of interest, centering on middle and high school standards. DataClassroom is a web-based digital tool designed to engage students with data and build foundational skills for analysis and interpretation in the digital environment. The app facilitates the use of large datasets, a quick exploration of data visualizations, and statistical analysis, but DataClassroom does not yet permit the use of any Bayesian statistical methods.
+There have been prominent and widespread calls for high school science students to work with data in more complex ways that better align with and support the work of professional scientists and engineers. However, high school students' analysis and interpretation of scientific data is often limited in scope, complexity, and authentic purpose. This project aims to support and advance students' work with ecological data in high school biology classrooms by embracing a new approach: Bayesian data analysis methods. Such methods involve expressing initial ideas or beliefs and updating them quantitatively with data that students access or record. This project will empower 20 high school teachers and their approximately 1,200 students to make sense of data within and beyond classroom contexts. It also will involve sharing research findings, an educational technology tool for Bayesian data analysis, and curricular resources in open and accessible ways.\
+\
+Teachers commonly desire to plan and carry out more data-intensive classroom activities. However, there needs to be more connection between students' work with data and the core science ideas teachers want their students to understand. The result is that students' work with data can be isolated from the sense-making students are doing about science. Because of advances in cognitive science, data science and Bayesian data analysis tools and methods, and science curricular standards, there is an opportunity to provide science teachers with practical tools and teaching strategies for students to use data in science classrooms more ambitiously. This project involves designing and carrying out a multi-year professional development program for 20 high school biology teachers focused on ecosystems-related core science ideas and locally-relevant ecological phenomena and questions. The program includes a collaboration with the Great Smoky Mountains Institute at Tremont, an experiential and outdoor education center in the nation's most biodiverse national park. The program focuses on strategies and a specially designed and developed statistical software tool to make Bayesian data analysis more accessible for high school learners. This study also involves a field experiment that assesses several teacher and student outcomes using quantitative and qualitative measures over multiple years of classroom implementation. This project has the potential to provide a set of research findings and strategies for making the science practice of analyzing and interpreting data more empowering for both science teachers and learners.
 
 The original proposal for the project is [here](https://osf.io/wn9mx/).
 
-## University of Tennessee, Knoxville Team
+## Acknowledgments
 
-add photos for all UTK, DC, and GSMIT folks?
+This material is based upon work supported by the [National Science Foundation under Grant No. 2239152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152&HistoricalAwards=false).
 
--   *Joshua Rosenberg (*[jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu)*),* Associate Professor of STEM Education, University of Tennessee, Knoxville
--   *Cody Pritchard*, Graduate Research Assistant, University of Tennessee, Knoxville
--   *Amanda Garner*, Research Scientist, University of Tennessee, Knoxville
-
-## Data Classroom Team
-
--   *Aaron Reedy*
--   *Dan Temple*
--   *Nigel Standish*
-
-## Great Smoky Mountains Institute at Tremont Team
-
--   *John DiDiego*
-
--   *Annie Roth*
-
-## Cohort 1 Teacher Partners
-
-![](images/IMG_6931.jpeg){fig-align="center"}
-
--   *Jani Chollman*
--   *Joanna Hughes*
--   *Robin Jarmen*
--   *David Krebs*
--   *Renita Parks*
--   *Jennifer Sauer*
--   *Sheryl Snellmassie*
--   *Heather Sexton*
--   *Michelle Platt*
--   *Heather Williams*
-
-## Contact
-
-[projectcredible\@utk.edu](mailto:projectcredible@utk.edu)
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.

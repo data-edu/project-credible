@@ -8,8 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - text: About and Contact
+        menu:
+          - href: about.qmd
+            text: About the Project
+          - href: contact.qmd
+            text: People and Contact Information
       - text: Resources
         menu:
           - href: cohort-1.qmd
@@ -19,7 +23,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
   pdf:

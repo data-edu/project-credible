@@ -1,0 +1,19 @@
+---
+title: "Tools and Other Resources"
+---
+
+## Resources
+
+-   [INaturalist](https://www.inaturalist.org/)
+-   [INaturalist Help](https://drive.google.com/drive/folders/131j0oYPmtF53QML7COnQqBtCnhC1LQbx)
+-   [Fieldscope](https://www.fieldscope.org/)
+-   [Data Nuggets](https://datanuggets.org/)
+-   [Raw Data](https://drive.google.com/drive/folders/1SzZz3ip7xlhaijZlaX5-lbbmqtfyua1-)
+-   [Science in the City](https://scienceinthecity.stanford.edu/)
+-   [DataClassroom](https://about.dataclassroom.com/)
+-   [Data Puzzels](https://datapuzzles.org/)
+-   [Where to Find Data Sets](https://docs.google.com/document/d/1Rl3Ip619Q5lgqf9sHtzAvZ2GwzBsXX071a7adzfamJE/edit)
+-   [CODAP](https://codap.concord.org/)
+-   [Kentucky's NGSS Assessment Tasks](https://www.education.ky.gov/curriculum/conpro/science/Pages/tct.aspx)
+-   [Stanford's NGSS Assessment Portal](https://scienceeducation.stanford.edu/)
+-   [Concord Consortium's NGSS Assessment Tasks](https://ngss-assessment.portal.concord.org/)

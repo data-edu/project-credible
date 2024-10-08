@@ -1,66 +1,73 @@
 [
   {
-    "objectID": "tools-and-links.html",
-    "href": "tools-and-links.html",
+    "objectID": "tools-and-resources.html",
+    "href": "tools-and-resources.html",
     "title": "Tools and Other Resources",
     "section": "",
     "text": "INaturalist\nINaturalist Help\nFieldscope\nData Nuggets\nRaw Data\nScience in the City\nDataClassroom\nData Puzzels\nWhere to Find Data Sets\nCODAP\nKentucky’s NGSS Assessment Tasks\nStanford’s NGSS Assessment Portal\nConcord Consortium’s NGSS Assessment Tasks"
   },
   {
-    "objectID": "tools-and-links.html#resources",
-    "href": "tools-and-links.html#resources",
+    "objectID": "tools-and-resources.html#resources",
+    "href": "tools-and-resources.html#resources",
     "title": "Tools and Other Resources",
     "section": "",
     "text": "INaturalist\nINaturalist Help\nFieldscope\nData Nuggets\nRaw Data\nScience in the City\nDataClassroom\nData Puzzels\nWhere to Find Data Sets\nCODAP\nKentucky’s NGSS Assessment Tasks\nStanford’s NGSS Assessment Portal\nConcord Consortium’s NGSS Assessment Tasks"
   },
   {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About",
-    "section": "Background",
-    "text": "Background\nHere’s a high-level description of the project:\n\nPrior research suggests that a Bayesian approach is needed and could be useful to science teachers and learners, especially in light of current science education standards and research that emphasizes the importance of learners analyzing data that is relevant to themselves and their environments. The overall purpose of this work is to advance a new approach to how middle and high school students analyze scientific data by adopting a Bayesian approach to analyze data. This purpose is instantiated through the development of a standards-aligned curricular unit, a digital tool, and a professional development plan that is implemented to emphasize students’ data analyses with phenomena of interest, centering on middle and high school standards. DataClassroom is a web-based digital tool designed to engage students with data and build foundational skills for analysis and interpretation in the digital environment. The app facilitates the use of large datasets, a quick exploration of data visualizations, and statistical analysis, but DataClassroom does not yet permit the use of any Bayesian statistical methods.\n\nThe original proposal for the project is here."
+    "objectID": "about.html#project-abstract",
+    "href": "about.html#project-abstract",
+    "title": "About the Project",
+    "section": "Project Abstract",
+    "text": "Project Abstract\nThere have been prominent and widespread calls for high school science students to work with data in more complex ways that better align with and support the work of professional scientists and engineers. However, high school students’ analysis and interpretation of scientific data is often limited in scope, complexity, and authentic purpose. This project aims to support and advance students’ work with ecological data in high school biology classrooms by embracing a new approach: Bayesian data analysis methods. Such methods involve expressing initial ideas or beliefs and updating them quantitatively with data that students access or record. This project will empower 20 high school teachers and their approximately 1,200 students to make sense of data within and beyond classroom contexts. It also will involve sharing research findings, an educational technology tool for Bayesian data analysis, and curricular resources in open and accessible ways.\n\nTeachers commonly desire to plan and carry out more data-intensive classroom activities. However, there needs to be more connection between students’ work with data and the core science ideas teachers want their students to understand. The result is that students’ work with data can be isolated from the sense-making students are doing about science. Because of advances in cognitive science, data science and Bayesian data analysis tools and methods, and science curricular standards, there is an opportunity to provide science teachers with practical tools and teaching strategies for students to use data in science classrooms more ambitiously. This project involves designing and carrying out a multi-year professional development program for 20 high school biology teachers focused on ecosystems-related core science ideas and locally-relevant ecological phenomena and questions. The program includes a collaboration with the Great Smoky Mountains Institute at Tremont, an experiential and outdoor education center in the nation’s most biodiverse national park. The program focuses on strategies and a specially designed and developed statistical software tool to make Bayesian data analysis more accessible for high school learners. This study also involves a field experiment that assesses several teacher and student outcomes using quantitative and qualitative measures over multiple years of classroom implementation. This project has the potential to provide a set of research findings and strategies for making the science practice of analyzing and interpreting data more empowering for both science teachers and learners.\nThe original proposal for the project is here."
   },
   {
-    "objectID": "about.html#university-of-tennessee-knoxville-team",
-    "href": "about.html#university-of-tennessee-knoxville-team",
-    "title": "About",
+    "objectID": "about.html#acknowledgments",
+    "href": "about.html#acknowledgments",
+    "title": "About the Project",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nThis material is based upon work supported by the National Science Foundation under Grant No. 2239152.\nAny opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
+  },
+  {
+    "objectID": "contact.html#university-of-tennessee-knoxville-team",
+    "href": "contact.html#university-of-tennessee-knoxville-team",
+    "title": "People and Contact Information",
     "section": "University of Tennessee, Knoxville Team",
-    "text": "University of Tennessee, Knoxville Team\nadd photos for all UTK, DC, and GSMIT folks?\n\nJoshua Rosenberg (jrosenb8@utk.edu), Associate Professor of STEM Education, University of Tennessee, Knoxville\nCody Pritchard, Graduate Research Assistant, University of Tennessee, Knoxville\nAmanda Garner, Research Scientist, University of Tennessee, Knoxville"
+    "text": "University of Tennessee, Knoxville Team\nContact: projectcredible@utk.edu\n\nJoshua Rosenberg(jrosenb8@utk.edu), Associate Professor of STEM Education, University of Tennessee, Knoxville\nCody Pritchard (cpritc12@vols.utk.edu), Graduate Research Assistant, University of Tennessee, Knoxville\nAmanda Garner (ahendr21@vols.utk.edu), Research Scientist, University of Tennessee, Knoxville"
   },
   {
-    "objectID": "about.html#data-classroom-team",
-    "href": "about.html#data-classroom-team",
-    "title": "About",
+    "objectID": "contact.html#data-classroom-team",
+    "href": "contact.html#data-classroom-team",
+    "title": "People and Contact Information",
     "section": "Data Classroom Team",
-    "text": "Data Classroom Team\n\nAaron Reedy\nDan Temple\nNigel Standish"
+    "text": "Data Classroom Team\nContact: info@dataclassroom.com\n\nAaron Reedy\nDan Temple\nNigel Standish"
   },
   {
-    "objectID": "about.html#great-smoky-mountains-institute-at-tremont-team",
-    "href": "about.html#great-smoky-mountains-institute-at-tremont-team",
-    "title": "About",
+    "objectID": "contact.html#great-smoky-mountains-institute-at-tremont-team",
+    "href": "contact.html#great-smoky-mountains-institute-at-tremont-team",
+    "title": "People and Contact Information",
     "section": "Great Smoky Mountains Institute at Tremont Team",
-    "text": "Great Smoky Mountains Institute at Tremont Team\n\nJohn DiDiego\nAnnie Roth"
+    "text": "Great Smoky Mountains Institute at Tremont Team\nContact: https://gsmit.org/about/contact-us/\n\nJohn DiDiego\nAnnie Roth"
   },
   {
-    "objectID": "about.html#cohort-1-teacher-partners",
-    "href": "about.html#cohort-1-teacher-partners",
-    "title": "About",
+    "objectID": "contact.html#cohort-1-teacher-partners",
+    "href": "contact.html#cohort-1-teacher-partners",
+    "title": "People and Contact Information",
     "section": "Cohort 1 Teacher Partners",
-    "text": "Cohort 1 Teacher Partners\n\n\n\n\n\n\nJani Chollman\nJoanna Hughes\nRobin Jarmen\nDavid Krebs\nRenita Parks\nJennifer Sauer\nSheryl Snellmassie\nHeather Sexton\nMichelle Platt\nHeather Williams"
+    "text": "Cohort 1 Teacher Partners\n\nJani Chollman\nJoanna Hughes\nRobin Jarmen\nDavid Krebs\nRenita Parks\nJennifer Sauer\nSheryl Snellmassie\nHeather Sexton\nMichelle Platt\nHeather Williams"
   },
   {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nprojectcredible@utk.edu"
+    "objectID": "contact.html#acknowledgments",
+    "href": "contact.html#acknowledgments",
+    "title": "People and Contact Information",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nThis material is based upon work supported by the National Science Foundation under Grant No. 2239152.\nAny opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Creatively Reimagining Engagement With Data in Biology Learning Environments",
     "section": "",
-    "text": "Welcome to the Project CREDIBLE website! Project CREDIBLE is an NSF-funded STEM education research project associated with the University of Tennessee, Knoxville.\nThis material is based upon work supported by the National Science Foundation under Grant No. 2239152.\nAny opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
+    "text": "Welcome to the Project CREDIBLE website!\nProject CREDIBLE is an NSF-funded STEM education research project associated with the University of Tennessee, Knoxville, The Great Smoky Mountains Institute at Tremont, and DataClassroom.\nThis website contains information about the project and how to get in touch, details about Cohort 1, and links to tools and related resources."
   },
   {
     "objectID": "cohort-1.html",
