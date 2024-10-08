@@ -5,17 +5,17 @@ format-links: false
 
 ![](images/IMG_6819-01.jpeg){fig-align="center"}
 
-Welcome to the **Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments**) website!
+Welcome to the **Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments**) website.
 
 Project CREDIBLE is an NSF-funded STEM education research project associated with the [University of Tennessee, Knoxville](https://www.utk.edu/), The [Great Smoky Mountains Institute at Tremont](https://gsmit.org/), and [DataClassroom](https://dataclassroom.com/).
 
-This website contains information:
+This website contains :
 
--   [about the project](about.qmd) and how to get in touch
+-   [About the project](about.qmd) and how to get in touch
 
--   details about [Cohort 1](cohort-1.qmd), our first cohort of collaborating teachers
+-   Details about [Cohort 1](cohort-1.qmd), our first cohort of collaborating teachers
 
--   links to [tools and related resources](tools-and-resources.qmd)
+-   Links to [tools and related resources](tools-and-resources.qmd)
 
 <hr>
 
