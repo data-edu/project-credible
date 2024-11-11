@@ -9,7 +9,7 @@ format-links: false
 
 **Contact**: [projectcredible\@utk.edu](mailto:projectcredible@utk.edu)
 
--   [*Joshua Rosenberg*](https://joshuamrosenberg.com)([jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu))*,* Associate Professor of STEM Education, University of Tennessee, Knoxville
+-   *Joshua Rosenberg* ([jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu))*,* Associate Professor of STEM Education, University of Tennessee, Knoxville
 -   *Cody Pritchard* ([cpritc12\@vols.utk.edu](mailto:cpritc12@vols.utk.edu)), Graduate Research Assistant, University of Tennessee, Knoxville
 -   *Amanda Garner* ([ahendr21\@vols.utk.edu](mailto:ahendr21@vols.utk.edu)), Research Scientist, University of Tennessee, Knoxville
 
@@ -26,7 +26,6 @@ format-links: false
 **Contact**: <https://gsmit.org/about/contact-us/>
 
 -   *John DiDiego*
-
 -   *Annie Roth*
 
 ## Cohort 1 Teacher Partners
@@ -41,9 +40,3 @@ format-links: false
 -   *Heather Sexton*
 -   *Michelle Platt*
 -   *Heather Williams*
-
-## Acknowledgments
-
-This material is based upon work supported by the [National Science Foundation under Grant No. 2239152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152&HistoricalAwards=false).
-
-Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.

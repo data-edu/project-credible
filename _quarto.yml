@@ -18,8 +18,8 @@ website:
         menu:
           - href: cohort-1.qmd
             text: Cohort 1
-          - href: tools-and-links.qmd
-            text: Tools and Links
+          - href: tools-and-resources.qmd
+            text: Tools and Resources
 
 format:
   html:

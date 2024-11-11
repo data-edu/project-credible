@@ -17,8 +17,6 @@ This website contains :
 
 -   Links to [tools and related resources](tools-and-resources.qmd)
 
-<hr>
-
 ::: {style="display: flex; justify-content: center; align-items: center;"}
 <img src="images/CredibleMaster-02.jpg" width="125" height="125" style="margin-right: 10px;"/>
 
