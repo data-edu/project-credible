@@ -40,3 +40,11 @@ format-links: false
 -   *Heather Sexton*
 -   *Michelle Platt*
 -   *Heather Williams*
+
+## Advisory Board Members
+
+- *Joy Bertling*
+- *Todd Campbell*
+- *Mine Dogucu*
+- *Richard Lehrer*
+- *Michelle Wilkerson*
