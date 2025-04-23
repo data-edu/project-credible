@@ -3,7 +3,7 @@ title: "About the Project"
 format-links: false
 ---
 
-![](images/IMG_0839-01.jpeg){fig-align="center"}
+![](images/IMG_0839-01.jpeg){fig-align="center" width="465"}
 
 ## Project Abstract
 
