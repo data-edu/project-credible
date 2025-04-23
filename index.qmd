@@ -3,6 +3,10 @@ title: "Creatively Reimagining Engagement With Data in Biology Learning Environm
 format-links: false
 ---
 
+::: callout
+Apply for the 2025-2026 cohort---information and a link to the application are [here](recruitment.qmd)!
+:::
+
 ![](images/IMG_6819-01.jpeg){fig-align="center" width="511"}
 
 Welcome to the **Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments**) website.
@@ -16,5 +20,7 @@ This website contains :
 -   Details about [Cohort 1](cohort-1.qmd), our first cohort of collaborating teachers
 
 -   Links to [tools and related resources](tools-and-resources.qmd)
+
+-   Information on [recruitment](recruitment.qmd) for our 2025-2026 cohort
 
 ![](images/CredibleMaster-02.jpg){width="125" height="125"} ![](images/utk.png){width="173"} ![](images/clipboard-236040836.png){width="100" height="100"}

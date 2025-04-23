@@ -1,73 +1,10 @@
 [
   {
-    "objectID": "tools-and-resources.html",
-    "href": "tools-and-resources.html",
-    "title": "Tools and Other Resources",
-    "section": "",
-    "text": "INaturalist\nINaturalist Help\nFieldscope\nData Nuggets\nRaw Data\nScience in the City\nDataClassroom\nData Puzzels\nWhere to Find Data Sets\nCODAP\nKentucky’s NGSS Assessment Tasks\nStanford’s NGSS Assessment Portal\nConcord Consortium’s NGSS Assessment Tasks"
-  },
-  {
-    "objectID": "tools-and-resources.html#resources",
-    "href": "tools-and-resources.html#resources",
-    "title": "Tools and Other Resources",
-    "section": "",
-    "text": "INaturalist\nINaturalist Help\nFieldscope\nData Nuggets\nRaw Data\nScience in the City\nDataClassroom\nData Puzzels\nWhere to Find Data Sets\nCODAP\nKentucky’s NGSS Assessment Tasks\nStanford’s NGSS Assessment Portal\nConcord Consortium’s NGSS Assessment Tasks"
-  },
-  {
-    "objectID": "about.html#project-abstract",
-    "href": "about.html#project-abstract",
-    "title": "About the Project",
-    "section": "Project Abstract",
-    "text": "Project Abstract\nThere have been prominent and widespread calls for high school science students to work with data in more complex ways that better align with and support the work of professional scientists and engineers. However, high school students’ analysis and interpretation of scientific data is often limited in scope, complexity, and authentic purpose. This project aims to support and advance students’ work with ecological data in high school biology classrooms by embracing a new approach: Bayesian data analysis methods. Such methods involve expressing initial ideas or beliefs and updating them quantitatively with data that students access or record. This project will empower 20 high school teachers and their approximately 1,200 students to make sense of data within and beyond classroom contexts. It also will involve sharing research findings, an educational technology tool for Bayesian data analysis, and curricular resources in open and accessible ways.\n\nTeachers commonly desire to plan and carry out more data-intensive classroom activities. However, there needs to be more connection between students’ work with data and the core science ideas teachers want their students to understand. The result is that students’ work with data can be isolated from the sense-making students are doing about science. Because of advances in cognitive science, data science and Bayesian data analysis tools and methods, and science curricular standards, there is an opportunity to provide science teachers with practical tools and teaching strategies for students to use data in science classrooms more ambitiously. This project involves designing and carrying out a multi-year professional development program for 20 high school biology teachers focused on ecosystems-related core science ideas and locally-relevant ecological phenomena and questions. The program includes a collaboration with the Great Smoky Mountains Institute at Tremont, an experiential and outdoor education center in the nation’s most biodiverse national park. The program focuses on strategies and a specially designed and developed statistical software tool to make Bayesian data analysis more accessible for high school learners. This study also involves a field experiment that assesses several teacher and student outcomes using quantitative and qualitative measures over multiple years of classroom implementation. This project has the potential to provide a set of research findings and strategies for making the science practice of analyzing and interpreting data more empowering for both science teachers and learners.\nThe original proposal for the project is here."
-  },
-  {
-    "objectID": "about.html#acknowledgments",
-    "href": "about.html#acknowledgments",
-    "title": "About the Project",
-    "section": "Acknowledgments",
-    "text": "Acknowledgments\nThis material is based upon work supported by the National Science Foundation under Grant No. 2239152.\nAny opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
-  },
-  {
-    "objectID": "contact.html#university-of-tennessee-knoxville-team",
-    "href": "contact.html#university-of-tennessee-knoxville-team",
-    "title": "People and Contact Information",
-    "section": "University of Tennessee, Knoxville Team",
-    "text": "University of Tennessee, Knoxville Team\nContact: projectcredible@utk.edu\n\nJoshua Rosenberg (jrosenb8@utk.edu), Associate Professor of STEM Education, University of Tennessee, Knoxville\nCody Pritchard (cpritc12@vols.utk.edu), Graduate Research Assistant, University of Tennessee, Knoxville\nAmanda Garner (ahendr21@vols.utk.edu), Research Scientist, University of Tennessee, Knoxville"
-  },
-  {
-    "objectID": "contact.html#data-classroom-team",
-    "href": "contact.html#data-classroom-team",
-    "title": "People and Contact Information",
-    "section": "Data Classroom Team",
-    "text": "Data Classroom Team\nContact: info@dataclassroom.com\n\nAaron Reedy\nDan Temple\nNigel Standish"
-  },
-  {
-    "objectID": "contact.html#great-smoky-mountains-institute-at-tremont-team",
-    "href": "contact.html#great-smoky-mountains-institute-at-tremont-team",
-    "title": "People and Contact Information",
-    "section": "Great Smoky Mountains Institute at Tremont Team",
-    "text": "Great Smoky Mountains Institute at Tremont Team\nContact: https://gsmit.org/about/contact-us/\n\nJohn DiDiego\nAnnie Roth"
-  },
-  {
-    "objectID": "contact.html#cohort-1-teacher-partners",
-    "href": "contact.html#cohort-1-teacher-partners",
-    "title": "People and Contact Information",
-    "section": "Cohort 1 Teacher Partners",
-    "text": "Cohort 1 Teacher Partners\n\nJani Chollman\nJoanna Hughes\nRobin Jarmen\nDavid Krebs\nRenita Parks\nJennifer Sauer\nSheryl Snellmassie\nHeather Sexton\nMichelle Platt\nHeather Williams"
-  },
-  {
-    "objectID": "contact.html#advisory-board-members",
-    "href": "contact.html#advisory-board-members",
-    "title": "People and Contact Information",
-    "section": "Advisory Board Members",
-    "text": "Advisory Board Members\n\nJoy Bertling\nTodd Campbell\nMine Dogucu\nRichard Lehrer\nMichelle Wilkerson"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Creatively Reimagining Engagement With Data in Biology Learning Environments",
-    "section": "",
-    "text": "Welcome to the Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments) website.\nProject CREDIBLE is an NSF-funded STEM education research project associated with the University of Tennessee, Knoxville, The Great Smoky Mountains Institute at Tremont, and DataClassroom.\nThis website contains :\n\nAbout the project and how to get in touch\nDetails about Cohort 1, our first cohort of collaborating teachers\nLinks to tools and related resources"
+    "objectID": "recruitment.html#join-project-credible",
+    "href": "recruitment.html#join-project-credible",
+    "title": "Recruitment for 2025-2026",
+    "section": "Join Project CREDIBLE!",
+    "text": "Join Project CREDIBLE!\n\n\n\n\n\nWe invite you to join an exciting new project to empower middle and high-school teachers in our region to transform the way students engage with data in science classrooms.\nProject CREDIBLE—led by education researchers at the University of Tennessee, Knoxville, in collaboration with the Great Smoky Mountains Institute at Tremont—is seeking creative and forward-thinking teachers in Knox County to help pioneer new approaches to data literacy in STEM education.\nWhat is Project CREDIBLE?\nFunded by the National Science Foundation, Project CREDIBLE is a three-year initiative launching this summer to help students think critically about data and how to apply it to real-world scenarios while developing a deeper understanding of biological and environmental science.\nBy participating, you will gain access to innovative tools, resources, and methodologies designed to foster probabilistic thinking, place-based learning, and data-driven decision-making among students.\nWhat’s in It for You?\nFostering curiosity and analytical skills in our students is critical to their long-term success. But it isn’t easy, and, as educators ourselves, we know there may be moments when you feel like you’re doing it alone.\nProject CREDIBLE offers a unique opportunity to:\n● Join a Community of Like-Minded Thinkers: Engage in monthly meetings (alternating between Zoom and in-person) to share your own insights, refine teaching strategies with other educators, and workshop fresh, new approaches to use in your classroom.\n● Immerse in Hands-On Learning: Participate in a 3-day (2-night) immersive experience at the Tremont Institute, where you’ll collaborate with fellow cohort members and project leaders in hands-on workshops focused on fun, data-based, outdoor learning. This and other professional learning opportunities will be fully paid for by the project.\n● Shape STEM Education in Our Region: Be a part of a first-of-its-kind initiative that will apply the same data-driven methods used successfully by businesses around the country to improve student engagement and understanding of science.\nYour time and effort are valued. Because of that, teachers selected for the program will also receive a $1,000 stipend for their participation.\nWho Should Apply?\nOur team is looking for educators who are:\n\nOpen to new ideas\nComfortable with ambiguity\nPassionate about problem-solving, experimenting, and developing new ways to engage students.\n\nInterested in helping students explore locally scientific phenomena in outdoor learning environments\n\nIf you’ve ever wondered how to make STEM subjects more engaging or wished for better ways to equip students with data literacy skills, this project is for you.\nWhat Will Your Students Gain?\nThrough Project CREDIBLE, you’ll help students engage their curiosity and develop critical thinking skills as they engage in meaningful scientific inquiries questions like, “What is kudzu, and why is it everywhere?” “Is it safe to swim in the Tennessee River?” and “What is hibernation like for black bears in the Smokies?” and discover answers together.\nHow to Get Involved:\nWe are looking for up to 20 middle and high school science teachers to join our first cohort. The application deadline is May 31, 2025. If you are interested in being part of this transformative initiative, we’d love to hear from you!\nApply here: tiny.utk.edu/credible\nTogether, we can reimagine how students engage with science and data, helping them become more informed, inquisitive, and empowered citizens.\nWe hope you’ll join us on this new adventure! Please reach out to projectcredible@utk.edu or Principal Investigator Joshua Rosenberg (jrosenb8@utk.edu), Associate Professor of STEM Education at University of Tennessee, Knoxville.\nLinks:\nApplication: tiny.utk.edu/credible\nProject Homepage: https://projectcredible.com"
   },
   {
     "objectID": "cohort-1.html",
@@ -126,10 +63,73 @@
     "text": "September 28th PD Materials\n\nPD Overview Slide Deck\nINaturalist Info Sheet\nINaturalist Walkthrough Video\nUsing INaturalist with your Students\nAdditional INaturalist Resources\nSlide Deck: Working with INaturalist"
   },
   {
-    "objectID": "recruitment.html",
-    "href": "recruitment.html",
-    "title": "Recruitment",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Creatively Reimagining Engagement With Data in Biology Learning Environments",
     "section": "",
-    "text": "Want to help Knox County students think like scientists?\nJoin Project CREDIBLE!\n\n\n\n\n\nWe invite you to join an exciting new project to empower middle and high-school teachers in our region to transform the way students engage with data in science classrooms.\nProject CREDIBLE—led by education researchers at the University of Tennessee, Knoxville, in collaboration with the Great Smoky Mountains Institute at Tremont—is seeking creative and forward-thinking teachers in Knox County to help pioneer new approaches to data literacy in STEM education.\nWhat is Project CREDIBLE?\nFunded by the National Science Foundation, Project CREDIBLE is a three-year initiative launching this summer to help students think critically about data and how to apply it to real-world scenarios while developing a deeper understanding of biological and environmental science.\nBy participating, you will gain access to innovative tools, resources, and methodologies designed to foster probabilistic thinking, place-based learning, and data-driven decision-making among students.\nWhat’s in It for You?\nFostering curiosity and analytical skills in our students is critical to their long-term success. But it isn’t easy, and, as educators ourselves, we know there may be moments when you feel like you’re doing it alone.\nProject CREDIBLE offers a unique opportunity to:\n● Join a Community of Like-Minded Thinkers: Engage in monthly meetings (alternating between Zoom and in-person) to share your own insights, refine teaching strategies with other educators, and workshop fresh, new approaches to use in your classroom.\n● Immerse in Hands-On Learning: Participate in a 3-day (2-night) immersive experience at the Tremont Institute, where you’ll collaborate with fellow cohort members and project leaders in hands-on workshops focused on fun, data-based, outdoor learning. This and other professional learning opportunities will be fully paid for by the project.\n● Shape STEM Education in Our Region: Be a part of a first-of-its-kind initiative that will apply the same data-driven methods used successfully by businesses around the country to improve student engagement and understanding of science.\nYour time and effort are valued. Because of that, teachers selected for the program will also receive a $1,000 stipend for their participation.\nWho Should Apply?\nOur team is looking for educators who are:\n\nOpen to new ideas\nComfortable with ambiguity\nPassionate about problem-solving, experimenting, and developing new ways to engage students.\n\nInterested in helping students explore locally scientific phenomena in outdoor learning environments\n\nIf you’ve ever wondered how to make STEM subjects more engaging or wished for better ways to equip students with data literacy skills, this project is for you.\nWhat Will Your Students Gain?\nThrough Project CREDIBLE, you’ll help students engage their curiosity and develop critical thinking skills as they engage in meaningful scientific inquiries questions like, “What is kudzu, and why is it everywhere?” “Is it safe to swim in the Tennessee River?” and “What is hibernation like for black bears in the Smokies?” and discover answers together.\nHow to Get Involved:\nWe are looking for up to 20 middle and high school science teachers to join our first cohort. The application deadline is May 31, 2025. If you are interested in being part of this transformative initiative, we’d love to hear from you!\nApply here: tiny.utk.edu/credible\nTogether, we can reimagine how students engage with science and data, helping them become more informed, inquisitive, and empowered citizens.\nWe hope you’ll join us on this new adventure! Please reach out to projectcredible@utk.edu or Principal Investigator Joshua Rosenberg (jrosenb8@utk.edu), Associate Professor of STEM Education at University of Tennessee, Knoxville.\nLinks:\nApplication: tiny.utk.edu/credible\nProject Homepage: https://projectcredible.com"
+    "text": "Apply for the 2025-2026 cohort—information and a link to the application are here!\n\n\n\n\n\n\n\n\nWelcome to the Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments) website.\nProject CREDIBLE is an NSF-funded STEM education research project associated with the University of Tennessee, Knoxville, The Great Smoky Mountains Institute at Tremont, and DataClassroom.\nThis website contains :\n\nAbout the project and how to get in touch\nDetails about Cohort 1, our first cohort of collaborating teachers\nLinks to tools and related resources\nInformation on recruitment for our 2025-2026 cohort"
+  },
+  {
+    "objectID": "contact.html#university-of-tennessee-knoxville-team",
+    "href": "contact.html#university-of-tennessee-knoxville-team",
+    "title": "People and Contact Information",
+    "section": "University of Tennessee, Knoxville Team",
+    "text": "University of Tennessee, Knoxville Team\nContact: projectcredible@utk.edu\n\nJoshua Rosenberg (jrosenb8@utk.edu), Associate Professor of STEM Education, University of Tennessee, Knoxville\nCody Pritchard (cpritc12@vols.utk.edu), Graduate Research Assistant, University of Tennessee, Knoxville\nAmanda Garner (ahendr21@vols.utk.edu), Research Scientist, University of Tennessee, Knoxville"
+  },
+  {
+    "objectID": "contact.html#data-classroom-team",
+    "href": "contact.html#data-classroom-team",
+    "title": "People and Contact Information",
+    "section": "Data Classroom Team",
+    "text": "Data Classroom Team\nContact: info@dataclassroom.com\n\nAaron Reedy\nDan Temple\nNigel Standish"
+  },
+  {
+    "objectID": "contact.html#great-smoky-mountains-institute-at-tremont-team",
+    "href": "contact.html#great-smoky-mountains-institute-at-tremont-team",
+    "title": "People and Contact Information",
+    "section": "Great Smoky Mountains Institute at Tremont Team",
+    "text": "Great Smoky Mountains Institute at Tremont Team\nContact: https://gsmit.org/about/contact-us/\n\nJohn DiDiego\nAnnie Roth"
+  },
+  {
+    "objectID": "contact.html#cohort-1-teacher-partners",
+    "href": "contact.html#cohort-1-teacher-partners",
+    "title": "People and Contact Information",
+    "section": "Cohort 1 Teacher Partners",
+    "text": "Cohort 1 Teacher Partners\n\nJani Chollman\nJoanna Hughes\nRobin Jarmen\nDavid Krebs\nRenita Parks\nJennifer Sauer\nSheryl Snellmassie\nHeather Sexton\nMichelle Platt\nHeather Williams"
+  },
+  {
+    "objectID": "contact.html#advisory-board-members",
+    "href": "contact.html#advisory-board-members",
+    "title": "People and Contact Information",
+    "section": "Advisory Board Members",
+    "text": "Advisory Board Members\n\nJoy Bertling\nTodd Campbell\nMine Dogucu\nRichard Lehrer\nMichelle Wilkerson"
+  },
+  {
+    "objectID": "about.html#project-abstract",
+    "href": "about.html#project-abstract",
+    "title": "About the Project",
+    "section": "Project Abstract",
+    "text": "Project Abstract\nThere have been prominent and widespread calls for high school science students to work with data in more complex ways that better align with and support the work of professional scientists and engineers. However, high school students’ analysis and interpretation of scientific data is often limited in scope, complexity, and authentic purpose. This project aims to support and advance students’ work with ecological data in high school biology classrooms by embracing a new approach: Bayesian data analysis methods. Such methods involve expressing initial ideas or beliefs and updating them quantitatively with data that students access or record. This project will empower 20 high school teachers and their approximately 1,200 students to make sense of data within and beyond classroom contexts. It also will involve sharing research findings, an educational technology tool for Bayesian data analysis, and curricular resources in open and accessible ways.\n\nTeachers commonly desire to plan and carry out more data-intensive classroom activities. However, there needs to be more connection between students’ work with data and the core science ideas teachers want their students to understand. The result is that students’ work with data can be isolated from the sense-making students are doing about science. Because of advances in cognitive science, data science and Bayesian data analysis tools and methods, and science curricular standards, there is an opportunity to provide science teachers with practical tools and teaching strategies for students to use data in science classrooms more ambitiously. This project involves designing and carrying out a multi-year professional development program for 20 high school biology teachers focused on ecosystems-related core science ideas and locally-relevant ecological phenomena and questions. The program includes a collaboration with the Great Smoky Mountains Institute at Tremont, an experiential and outdoor education center in the nation’s most biodiverse national park. The program focuses on strategies and a specially designed and developed statistical software tool to make Bayesian data analysis more accessible for high school learners. This study also involves a field experiment that assesses several teacher and student outcomes using quantitative and qualitative measures over multiple years of classroom implementation. This project has the potential to provide a set of research findings and strategies for making the science practice of analyzing and interpreting data more empowering for both science teachers and learners.\nThe original proposal for the project is here."
+  },
+  {
+    "objectID": "about.html#acknowledgments",
+    "href": "about.html#acknowledgments",
+    "title": "About the Project",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nThis material is based upon work supported by the National Science Foundation under Grant No. 2239152.\nAny opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
+  },
+  {
+    "objectID": "tools-and-resources.html",
+    "href": "tools-and-resources.html",
+    "title": "Tools and Other Resources",
+    "section": "",
+    "text": "INaturalist\nINaturalist Help\nFieldscope\nData Nuggets\nRaw Data\nScience in the City\nDataClassroom\nData Puzzels\nWhere to Find Data Sets\nCODAP\nKentucky’s NGSS Assessment Tasks\nStanford’s NGSS Assessment Portal\nConcord Consortium’s NGSS Assessment Tasks"
+  },
+  {
+    "objectID": "tools-and-resources.html#resources",
+    "href": "tools-and-resources.html#resources",
+    "title": "Tools and Other Resources",
+    "section": "",
+    "text": "INaturalist\nINaturalist Help\nFieldscope\nData Nuggets\nRaw Data\nScience in the City\nDataClassroom\nData Puzzels\nWhere to Find Data Sets\nCODAP\nKentucky’s NGSS Assessment Tasks\nStanford’s NGSS Assessment Portal\nConcord Consortium’s NGSS Assessment Tasks"
   }
 ]
