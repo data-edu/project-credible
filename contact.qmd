@@ -43,8 +43,8 @@ format-links: false
 
 ## Advisory Board Members
 
-- *Joy Bertling*
-- *Todd Campbell*
-- *Mine Dogucu*
-- *Richard Lehrer*
-- *Michelle Wilkerson*
+-   *Joy Bertling*
+-   *Todd Campbell*
+-   *Mine Dogucu*
+-   *Richard Lehrer*
+-   *Michelle Wilkerson*

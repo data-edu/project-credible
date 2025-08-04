@@ -4,7 +4,7 @@ format-links: false
 ---
 
 ::: callout
-Apply for the 2025-2026 cohort---information and a link to the application are [here](recruitment.qmd)!
+Cohort 2 members – find project materials [here](https://projectcredible.com/cohort-2)!
 :::
 
 ![](images/IMG_6819-01.jpeg){fig-align="center" width="511"}
