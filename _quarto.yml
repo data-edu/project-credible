@@ -20,6 +20,8 @@ website:
             text: Cohort 2
           - href: tools-and-resources.qmd
             text: Tools and Resources
+          - href: abc.qmd
+            text: ABCs of Data
 
 format:
   html:

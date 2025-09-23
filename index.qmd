@@ -23,4 +23,6 @@ This website contains :
 
 -   Information on [recruitment](recruitment.qmd) for our 2025-2026 cohort
 
+-   The [ABCs of Data](https://projectcredible.com/abc)
+
 ![](images/CredibleMaster-02.jpg){width="125" height="125"} ![](images/utk.png){width="173"} ![](images/clipboard-236040836.png){width="100" height="100"}
