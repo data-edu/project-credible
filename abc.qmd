@@ -15,3 +15,5 @@ Learn more about the ABCs of Data in [this article in NSTA's *The Science Teache
 ## Resources
 
 [ABCs of Data Worksheet (v 2.0)](https://docs.google.com/document/d/e/2PACX-1vSate5El-MroaIvAmtRBVHE0iWllNTR6YCZd0gsqZphoSdyW9_vESRRt4gnuoSXwEuMsby9APZLoyuE/pub)
+
+[Confidence Updater web app](www.confidenceupdater.com)
