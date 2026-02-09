@@ -1,0 +1,18 @@
+---
+title: "Resources"
+---
+
+## ABCs of Data Resources
+
+- [Fillable ABCs of Data Worksheet](https://docs.google.com/document/d/1giyIqZkXTtKAat7HYg4WTHORJRgEsnHDP9k-3Oqq-rY/edit?tab=t.0#heading=h.aqhwpw4oerj1) - Interactive Google Doc version
+- [ABCs of Data Printable (PDF)](downloads/abcs-of-data.pdf) - Download the English version
+- [ABCs of Data - Spanish (PDF)](downloads/abcs-of-data-spanish.pdf) - Download the Spanish version
+
+## Tools
+
+- [Confidence Updater](http://confidenceupdater.com/) - Web application for tracking confidence levels
+
+## Get Involved
+
+- [Apply to Project CREDIBLE](https://tiny.utk.edu/credible) - Join our next cohort
+- **Questions?** Email us at [projectcredible@utk.edu](mailto:projectcredible@utk.edu)

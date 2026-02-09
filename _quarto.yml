@@ -16,6 +16,8 @@ website:
             text: People and Contact Information
       - text: Resources
         menu:
+          - href: resources.qmd
+            text: General Resources
           - href: cohort-2.qmd
             text: Cohort 2
           - href: tools-and-resources.qmd
