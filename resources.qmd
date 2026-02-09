@@ -7,6 +7,7 @@ title: "Resources"
 - [Fillable ABCs of Data Worksheet](https://docs.google.com/document/d/1giyIqZkXTtKAat7HYg4WTHORJRgEsnHDP9k-3Oqq-rY/edit?tab=t.0#heading=h.aqhwpw4oerj1) - Interactive Google Doc version
 - [ABCs of Data Printable (PDF)](downloads/abcs-of-data.pdf) - Download the English version
 - [ABCs of Data - Spanish (PDF)](downloads/abcs-of-data-spanish.pdf) - Download the Spanish version
+- [Embracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF)](downloads/science-scope-embracing-uncertainty.pdf) - Science Scope article
 
 ## Tools
 
