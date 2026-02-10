@@ -1,9 +1,9 @@
 ---
-title: "Recruitment for 2025-2026"
+title: "Get Involved"
 format-links: false
 ---
 
-### **Want to help Knox County students think like scientists?**
+### **Want to help students think like scientists?**
 
 ### **Join Project CREDIBLE!**
 
@@ -50,18 +50,34 @@ Through Project CREDIBLE, you’ll help students engage their curiosity and deve
 
 **How to Get Involved:**
 
-We are looking for up to 20 middle and high school science teachers to join our first cohort. **The application deadline is May 31, 2025.** If you are interested in being part of this transformative initiative, we'd love to hear from you!
+## For Teachers: Join the 2026-27 Educator Network
 
-Apply here: [tiny.utk.edu/credible](https://tiny.utk.edu/credible)
+We are looking for middle and high school science teachers to join our educator network. If you are interested in being part of this transformative initiative, we'd love to hear from you!
+
+**Apply here:** [tiny.utk.edu/credible](https://tiny.utk.edu/credible)
+
+*Information about application deadlines and the upcoming cohort will be posted here as it becomes available.*
+
+## For Students
+
+Are you a student interested in data science, environmental science, or outdoor learning? While Project CREDIBLE primarily works through classroom teachers, we encourage you to:
+
+- Talk to your science teacher about bringing Project CREDIBLE approaches to your classroom
+- Explore the [ABCs of Data](abc.qmd) framework on your own
+- Use the [Confidence Updater](http://confidenceupdater.com/) tool for your own investigations
+
+## Other Ways to Contribute
+
+Interested in collaborating with Project CREDIBLE in other ways? We welcome:
+
+- **Researchers** interested in partnership opportunities
+- **Organizations** aligned with our mission of advancing data literacy in STEM education
+- **Volunteers** with expertise in data science education, place-based learning, or outdoor education
+
+## Contact Us
 
 Together, we can reimagine how students engage with science and data, helping them become more informed, inquisitive, and empowered citizens.
 
-We hope you’ll join us on this new adventure! Please reach out to [projectcredible\@utk.edu](mailto:projectcredible@utk.edu) or Principal Investigator Joshua Rosenberg ([jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu)), Associate Professor of STEM Education at University of Tennessee, Knoxville.
-
-**Links:**
-
-Application: [tiny.utk.edu/credible](https://tiny.utk.edu/credible)
-
-Project Homepage: <https://projectcredible.com>
+We hope you'll join us on this adventure! Please reach out to [projectcredible\@utk.edu](mailto:projectcredible@utk.edu) or Principal Investigator Joshua Rosenberg ([jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu)), Associate Professor of STEM Education at University of Tennessee, Knoxville.
 
 ![](images/CredibleMaster-02.jpg){width="125" height="125"} ![](images/utk.png){width="173"} ![](images/clipboard-236040836.png){width="100" height="100"}

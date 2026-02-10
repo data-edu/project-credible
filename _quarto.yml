@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "Project CREDIBLE"
@@ -8,20 +10,31 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: About and Contact
+      - href: about.qmd
+        text: About
+      - text: Educator Network
         menu:
-          - href: about.qmd
-            text: About the Project
-          - href: contact.qmd
-            text: People and Contact Information
-      - text: Resources
-        menu:
+          - href: class-2025-26.qmd
+            text: 2025-26 Class
+          - href: teacher-leaders.qmd
+            text: Teacher Leaders
           - href: abc.qmd
             text: ABCs of Data
-          - href: cohort-2.qmd
-            text: Cohort 2
           - href: tools-and-resources.qmd
             text: Tools and Resources
+      - href: news.qmd
+        text: News & Events
+      - href: get-involved.qmd
+        text: Get Involved
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: |
+      Funded by the National Science Foundation (Grant No. 2239152)
+    center: |
+      [Past Cohorts](cohort-1.qmd)
+    right: |
+      © 2025 Project CREDIBLE
 
 format:
   html:

@@ -1,0 +1,17 @@
+---
+title: "2025-26 Class"
+---
+
+Welcome to the Project CREDIBLE 2025-26 educator network! This page contains resources and information for our current participating teachers.
+
+## Important Links
+
+-   [Google Drive](https://drive.google.com/drive/folders/1fVxPCd0J0a2Aq3JyEq_cAvbN1KkHwWZR?usp=drive_link) (private – make sure you're logged into Google with the email you shared with us!)
+-   Group Me (Coming soon!)
+
+## Curriculum Resources
+
+-   [ABCs of Data](abc.qmd) - Framework and materials for data analysis
+-   [Tools and Resources](tools-and-resources.qmd) - Additional teaching tools
+
+![](images/Image-2.jpeg){fig-align="center"}

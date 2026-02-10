@@ -1,17 +1,172 @@
 ---
-title: "About the Project"
+title: "About Project CREDIBLE"
 format-links: false
 ---
 
 ![](images/IMG_0839-01.jpeg){fig-align="center" width="465"}
 
-## Project Abstract
+## Mission & Vision
 
-There have been prominent and widespread calls for high school science students to work with data in more complex ways that better align with and support the work of professional scientists and engineers. However, high school students' analysis and interpretation of scientific data is often limited in scope, complexity, and authentic purpose. This project aims to support and advance students' work with ecological data in high school biology classrooms by embracing a new approach: Bayesian data analysis methods. Such methods involve expressing initial ideas or beliefs and updating them quantitatively with data that students access or record. This project will empower 20 high school teachers and their approximately 1,200 students to make sense of data within and beyond classroom contexts. It also will involve sharing research findings, an educational technology tool for Bayesian data analysis, and curricular resources in open and accessible ways.\
-\
-Teachers commonly desire to plan and carry out more data-intensive classroom activities. However, there needs to be more connection between students' work with data and the core science ideas teachers want their students to understand. The result is that students' work with data can be isolated from the sense-making students are doing about science. Because of advances in cognitive science, data science and Bayesian data analysis tools and methods, and science curricular standards, there is an opportunity to provide science teachers with practical tools and teaching strategies for students to use data in science classrooms more ambitiously. This project involves designing and carrying out a multi-year professional development program for 20 high school biology teachers focused on ecosystems-related core science ideas and locally-relevant ecological phenomena and questions. The program includes a collaboration with the Great Smoky Mountains Institute at Tremont, an experiential and outdoor education center in the nation's most biodiverse national park. The program focuses on strategies and a specially designed and developed statistical software tool to make Bayesian data analysis more accessible for high school learners. This study also involves a field experiment that assesses several teacher and student outcomes using quantitative and qualitative measures over multiple years of classroom implementation. This project has the potential to provide a set of research findings and strategies for making the science practice of analyzing and interpreting data more empowering for both science teachers and learners.
+Project CREDIBLE is a research-practice partnership intended to advance how middle and high schoolers use data in science classes. Funded by the National Science Foundation, the project involves a collaboration between teachers, researchers, and two partner organizations—the Great Smoky Mountains Institute at Tremont and DataClassroom.
 
-The original proposal for the project is [here](https://osf.io/wn9mx/).
+This project will empower teachers and their students to make sense of data within and beyond classroom contexts, sharing research findings, an educational technology tool for Bayesian data analysis, and curricular resources in open and accessible ways.
+
+### Our Approach
+
+There are four core aspects of our collaboration:
+
+1. **The Data Investigation Cycle** — Posing questions, considering and gathering data, processing data, exploring and visualizing data, considering models, and communicating conclusions and proposing action
+
+2. **Place-Based Education** — Drawing on the places and spaces in which we and our students live and teach as assets for science teaching and learning
+
+3. **Thinking Probabilistically** — Considering the aspects of the data investigation cycle not in terms of whether the data is "right" or "wrong," but through probabilistic reasoning
+
+4. **Ambitious Science Teaching** — Using an approach to science teaching and learning that is oriented toward students' engagement with big ideas, sharing their initial conceptions, and making progress toward refining and sharing their understanding throughout various aspects of a lesson sequence
+
+The original proposal for the project is available [here](https://osf.io/wn9mx/).
+
+## Our Team
+
+### Joshua Rosenberg, Ph.D.
+**Associate Professor of STEM Education, Department of Theory and Practice in Teacher Education; Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences**
+
+Josh Rosenberg's research focuses on the use of data in education, particularly STEM education. He works primarily across two disciplines: educational data science, which uses emerging data sources and methods to study teaching, learning, and educational systems; and data science education, which supports educators and learners in using digital data and technologies.
+
+Rosenberg has been awarded more than $6 million in federal grant funding as a principal investigator or co-principal investigator, including a National Science Foundation CAREER award. His work has been published in more than 50 peer-reviewed journal articles, including Educational Researcher, Journal of Research in Science Teaching, and AERA Open. He is the co-author of Data Science in Education Using R (Routledge), whose open-access, web-based version has been accessed more than 150,000 times.
+
+At the University of Tennessee, Knoxville, he teaches courses in educational data science and STEM education. Rosenberg serves as an associate editor of the Journal of Statistics and Data Science Education and as an editorial review board member for Review of Educational Research, Journal of Research on Technology in Education, and Journal of Science Education and Technology. He is also a committee member for the National Academies study, Developing Competencies for the Future of Data and Computing: The Role of K–12.
+
+He earned his Ph.D. in educational psychology and technology from Michigan State University.
+
+### Zhen Xu, Ph.D.
+**Postdoctoral Research Associate, Department of Theory and Practice in Teacher Education**
+
+Zhen Xu's research focuses on STEM education, with a particular emphasis on integrating innovative technologies to enhance teaching and learning experiences. In 2022, she earned her Ph.D. in educational/instructional technology from the University of Florida, where she also completed a master's in curriculum and instruction. Before joining the University of Tennessee, Knoxville, she was a post-doc on two National Science Foundation-funded projects at the University of North Carolina at Chapel Hill.
+
+Xu's work bridges the gap between educational theory and practical application, aiming to develop effective strategies for incorporating technology into STEM curricula.
+
+### Cody Pritchard
+**Graduate Research Assistant, Department of Theory and Practice in Teacher Education**
+
+Cody Pritchard is a doctoral student whose research focuses on K–12 data science education, the impact of educational technology on student privacy, and the representation of dominant narratives in online curricula. Pritchard's work examines the impact of digital tools and platforms on teaching and learning in STEM fields.
+
+Before enrolling at the University of Tennessee, Knoxville, in 2023, he served as the director of STEM education for STEM Prep Academy in Nashville and as the dean of curriculum and instruction at East End Prep. He has also worked as a mathematics teacher and instructional coach.
+
+Pritchard earned a master's degree in instructional practice from Lipscomb University.
+
+### Gregor Benz, Ph.D.
+**Postdoctoral Research Associate; Chair of Physics Education, Technical University of Munich School of Social Sciences and Technology**
+
+Gregor Benz researches how students engage with varying amounts of digitally acquired measurement data in science laboratories. He is particularly interested in how data competence influences students' ability to interpret and work with data, as well as how data quantity affects epistemological processes, such as scientific argumentation.
+
+Benz also studies how to promote technology-related competencies among pre-service science teachers. His work focuses on preparing future educators to use digital tools effectively in the lab, helping students develop process-related skills and collect meaningful measurement data during laboratory activities.
+
+## Partners
+
+### Great Smoky Mountains Institute at Tremont
+
+The Great Smoky Mountains Institute at Tremont is an experiential and outdoor education center located in the nation's most biodiverse national park. Tremont provides essential place-based learning experiences for Project CREDIBLE participants.
+
+**John DiDiego**
+*Education Director*
+
+John DiDiego grew up catching snakes and turtles in the creeks of upstate South Carolina and has never lost his love for wild things and places. He holds a bachelor's degree in English literature from the University of Notre Dame and a master's degree in natural resources from the University of Wisconsin–Stevens Point.
+
+With more than 25 years of experience in environmental education, DiDiego has worked in settings from New England and Yosemite National Park to the country of Georgia and far eastern Russia. Still, there's no place he'd rather be than the southern Appalachians. He enjoys hiking, biking, kayaking, turning over logs, and playing and singing folk music.
+
+**Annie Roth**
+*Manager of the Teacher Network*
+
+Annie Roth has felt a deep connection to the land since childhood. Growing up in Michigan and spending weekends at her family's cabin "up north," she waded through the Little Manistee River catching fish, finding frogs, and getting messy. That early curiosity sparked a lifelong connection to the natural world and a passion for sharing it with others.
+
+She earned a bachelor's degree in English from Grand Valley State University before moving to Nashville, where she taught and led project-based learning initiatives in schools across the city. She later earned a master's degree in curriculum and instruction from Middle Tennessee State University.
+
+At Tremont, Annie bridges her two greatest loves—teaching and the outdoors—by helping people connect with nature. In her free time, she enjoys discovering new fungi, hiking backcountry trails with her husband and their dog, Maple, fly fishing, and exploring Tennessee's waters by kayak or paddleboard.
+
+### DataClassroom
+
+DataClassroom provides the statistical software tools that make Bayesian data analysis more accessible for high school learners.
+
+**Aaron Reedy**
+*Cofounder & CEO*
+
+Aaron Reedy co-founded the platform to help students and teachers visualize and analyze data in the classroom. He previously served as a National Science Foundation Postdoctoral Fellow at Auburn University, where he worked with Tonia Schwartz to study sex differences in aging in brown anole lizards.
+
+He earned his Ph.D. in biology from the University of Virginia, where he was the James and Elizabeth Wright Jefferson Fellow. Before pursuing graduate studies, Reedy taught biology and zoology in a Chicago public high school, an experience that continues to inform his commitment to making science accessible and engaging for students.
+
+**Dan Temple**
+*Cofounder & CTO*
+
+Before cofounding the platform, Dan Temple spent his career in the electronics and semiconductor industries, working with companies ranging from small startups to multinational corporations, including Sony and Intel.
+
+Motivated by the lack of effective data tools available to his children in school, Temple teamed up with Aaron Reedy to launch DataClassroom. He now brings his expertise in building user-friendly systems and managing technical teams to develop accessible, high-quality data analysis tools for students and educators. He earned a degree in electronic engineering from the University of Bath in the United Kingdom.
+
+## Advisory Board
+
+### Michelle Wilkerson, Ph.D.
+**Assistant Professor, University of California, Berkeley, School of Education**
+
+Michelle Wilkerson examines how young people learn through computational representations, including computer simulations, data visualizations, and interactive graphics. Rather than framing technology as an add-on to traditional learning, Wilkerson approaches it as a fundamental part of how people engage with the world. Her research explores how students make sense of and use digital tools that are integral to modern science, media, and society, and how educators can support this process through thoughtful software design, curriculum development, and teacher training.
+
+Wilkerson leads UCLA's Computational Representations in Education (CoRE) research group and teaches courses in science and mathematics education, instructional practice, and research methods. Her work has been published in leading journals including The Journal of the Learning Sciences, Science Education, and Educational Studies in Mathematics. A recipient of the National Science Foundation's prestigious CAREER award in 2014, she has held leadership roles in the American Educational Research Association. Currently, she serves as co-chair of the National Academies' upcoming workshop on the Foundations of K–12 Data Science.
+
+### Joy G. Bertling, Ph.D.
+**Associate Professor of Art Education, University of Tennessee, Knoxville**
+
+Joy Bertling's research focuses on critical place-based art education and arts-based ecopedagogies, with a particular interest in how these approaches intersect with data visualization. She is the author of Art Education for a Sustainable Planet: Embracing Ecopedagogy in K–12 Classrooms. Her work has appeared in journals such as Studies in Art Education, International Journal of Education through Art, International Journal of Education & the Arts, and Art Education.
+
+Bertling is a past chair of the American Educational Research Association's Arts and Learning Special Interest Group and the National Art Education Association's Ecology and Environment Interest Group.
+
+### Todd Campbell, Ph.D.
+**Professor of Science Education, University of Connecticut, Neag School of Education**
+
+Todd Campbell is the department head of curriculum and instruction in the Neag School of Education. His research focuses on promoting imaginative and equitable representations of STEM activities, both in and out of the classroom. In formal learning settings, he partners with pre-service and in-service science educators to support student engagement with modeling as a core scientific practice for understanding natural phenomena and addressing community-based problems.
+
+Campbell's work also extends into informal environments, where he focuses on the iterative design of learning spaces and research rooted in equity- and justice-driven approaches to STEM education. He is the outgoing co-editor-in-chief of the Journal of Science Teacher Education and actively contributes to state and national STEM improvement initiatives.
+
+### Mine Dogucu, Ph.D.
+**Associate Professor of Teaching, University of California, Irvine, Department of Statistics**
+
+Mine Dogucu is the vice chair for undergraduate studies in the Department of Statistics at UC Irvine. She is an educator and applied statistician whose work focuses on statistics and data science education. Her broader goal is to create classrooms and curricula that are accessible, inclusive, and relevant across the sciences.
+
+While much of her work centers on undergraduate education, Dogucu also contributes to curriculum development at the community college and K–12 levels. Her recent research explores accessibility, instructor training, inferential reasoning, and Bayesian thinking in STEM education. She is the co-author of Bayes Rules! An Introduction to Applied Bayesian Modeling.
+
+### Richard Lehrer, Ph.D.
+**Professor Emeritus of Education, Vanderbilt University**
+
+A former high school science teacher, Richard Lehrer holds a Ph.D. in educational psychology and statistics from the State University of New York at Albany, as well as a B.S. in biology from Rensselaer Polytechnic Institute.
+
+Lehrer's research focuses on designing and studying classroom environments that engage students in the core practices of science and mathematics, such as modeling and mathematical reasoning. His recent work, in collaboration with Mark Wilson, explores how teachers' insights into student thinking can be integrated into innovative assessment models. The goal is to develop systems that support both learning and teaching, reimagining assessment as a tool for instruction rather than just accountability.
+
+## FAQs
+
+### What is Project CREDIBLE?
+
+Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments) is a National Science Foundation-funded research-practice partnership that advances how middle and high school students use data in science classes. The project brings together teachers, researchers from the University of Tennessee, Knoxville, the Great Smoky Mountains Institute at Tremont, and DataClassroom.
+
+### Who can participate in Project CREDIBLE?
+
+We work with middle and high school science teachers who are interested in integrating data-rich, place-based learning experiences into their classrooms. Teachers participate in professional development, including a retreat at Tremont, and implement lessons throughout the school year.
+
+### What makes this approach different?
+
+Project CREDIBLE emphasizes four key elements: the data investigation cycle, place-based education, probabilistic thinking (rather than deterministic "right or wrong" approaches), and Ambitious Science Teaching methods. We also use specially designed tools like the Confidence Updater to help students think about uncertainty in data.
+
+### Is there funding for participating teachers?
+
+Yes. Participating teachers receive stipends for their time and expertise in the project.
+
+### What is Bayesian data analysis, and why is it important for students?
+
+Bayesian data analysis is an approach that allows students to express their initial ideas or beliefs about a phenomenon and then update those ideas quantitatively based on data they collect or access. This method helps students understand that science involves uncertainty and that data helps us refine our understanding rather than simply proving something "right" or "wrong."
+
+### How can I get involved?
+
+Visit our [Get Involved](get-involved.qmd) page to learn about opportunities for teachers to participate in upcoming cohorts, or [contact us](contact.qmd) with questions.
+
+### What resources are available?
+
+We offer curriculum resources, including the ABCs of Data framework, the Confidence Updater web application, and various teaching materials. Visit our [Educator Network](abc.qmd) section to access these resources.
 
 ## Acknowledgments
 

@@ -1,0 +1,35 @@
+---
+title: "News & Events"
+---
+
+Stay updated on the latest from Project CREDIBLE, including publications, presentations, awards, and upcoming events.
+
+## 2025
+
+### February 2025
+
+- **Website Launch** - Project CREDIBLE launches its redesigned website with expanded resources for educators and information about our research-practice partnership.
+
+---
+
+## Upcoming Events
+
+Check back here for information about upcoming public events, conferences, and presentations related to Project CREDIBLE.
+
+---
+
+## Publications & Presentations
+
+### Recent Publications
+
+- Rosenberg, J. M., & colleagues. *Articles and research outputs related to data science education and Bayesian approaches in K-12 settings.*
+
+For a complete list of publications by our team members, visit the [About](about.qmd) page to see individual researcher profiles.
+
+---
+
+## Get Involved
+
+Interested in joining our educator network? Visit our [Get Involved](get-involved.qmd) page to learn about opportunities for the 2026-27 school year.
+
+Have news to share about Project CREDIBLE? [Contact us](contact.qmd) with updates about awards, presentations, or classroom successes!

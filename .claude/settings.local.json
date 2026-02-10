@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(quarto render:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(cat:*)"
     ]
   }
 }

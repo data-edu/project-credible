@@ -4,25 +4,38 @@ format-links: false
 ---
 
 ::: callout
-Cohort 2 members – find project materials [here](https://projectcredible.com/cohort-2)!
+2025-26 Class members – find project materials [here](class-2025-26.qmd)!
 :::
 
 ![](images/IMG_6819-01.jpeg){fig-align="center" width="511"}
 
-Welcome to the **Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments**) website.
+Welcome to the **Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments)** website.
 
-Project CREDIBLE is an NSF-funded STEM education research project associated with the [University of Tennessee, Knoxville](https://www.utk.edu/), The [Great Smoky Mountains Institute at Tremont](https://gsmit.org/), and [DataClassroom](https://dataclassroom.com/).
+## Our Mission
 
-This website contains :
+Project CREDIBLE is a research-practice partnership intended to advance how middle and high school students use data in science classes. Funded by the National Science Foundation, we bring together teachers, researchers at the [University of Tennessee, Knoxville](https://www.utk.edu/), the [Great Smoky Mountains Institute at Tremont](https://gsmit.org/), and [DataClassroom](https://dataclassroom.com/) to transform data literacy in STEM education.
 
--   [About the project](about.qmd) and how to get in touch
+### Our Approach
 
--   Details about [Cohort 1](cohort-1.qmd), our first cohort of collaborating teachers
+We focus on four core aspects:
 
--   Links to [tools and related resources](tools-and-resources.qmd)
+1. **The Data Investigation Cycle** — From posing questions to communicating conclusions
+2. **Place-Based Education** — Using local environments as assets for learning
+3. **Thinking Probabilistically** — Moving beyond "right" or "wrong" to embrace uncertainty
+4. **Ambitious Science Teaching** — Engaging students with big ideas and their own thinking
 
--   Information on [recruitment](recruitment.qmd) for our 2025-2026 cohort
+## Explore the Site
 
--   The [ABCs of Data](https://projectcredible.com/abc)
+-   [About](about.qmd) — Learn about our mission, team, partners, and advisory board
+
+-   [Educator Network](class-2025-26.qmd) — Resources for our 2025-26 class and teacher leaders
+
+-   [The ABCs of Data](abc.qmd) — Our framework for data analysis and interpretation
+
+-   [News & Events](news.qmd) — Updates, publications, and upcoming events
+
+-   [Get Involved](get-involved.qmd) — Join our educator network or contribute to the project
+
+-   [Contact](contact.qmd) — Get in touch with our team
 
 ![](images/CredibleMaster-02.jpg){width="125" height="125"} ![](images/utk.png){width="173"} ![](images/clipboard-236040836.png){width="100" height="100"}
