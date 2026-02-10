@@ -16,14 +16,12 @@ website:
             text: People and Contact Information
       - text: Resources
         menu:
-          - href: resources.qmd
-            text: General Resources
+          - href: abc.qmd
+            text: ABCs of Data
           - href: cohort-2.qmd
             text: Cohort 2
           - href: tools-and-resources.qmd
             text: Tools and Resources
-          - href: abc.qmd
-            text: ABCs of Data
 
 format:
   html:

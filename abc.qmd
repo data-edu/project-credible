@@ -2,18 +2,18 @@
 title: "The ABCs of Data"
 ---
 
-## Introduction
+## ABCs of Data Resources
 
-The ABCs of Data are a strategy developed by Project CREDIBLE researchers and teachers to support K-12 students to analyze and interpret data. The ABCs of Data consists of three steps that reflect the core aspects of analyzing and interpreting data:
+- [Fillable ABCs of Data Worksheet](https://docs.google.com/document/d/1giyIqZkXTtKAat7HYg4WTHORJRgEsnHDP9k-3Oqq-rY/edit?tab=t.0#heading=h.aqhwpw4oerj1) - Interactive Google Doc version
+- [ABCs of Data Printable (PDF)](downloads/abcs-of-data.pdf) - Download the English version
+- [ABCs of Data - Spanish (PDF)](downloads/abcs-of-data-spanish.pdf) - Download the Spanish version
+- [Embracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF)](downloads/science-scope-embracing-uncertainty.pdf) - Science Scope article
 
-1.  Account for what you know
-2.  Be open to evidence
-3.  Consider your confidence now
+## Tools
 
-Learn more about the ABCs of Data in [this article in NSTA's *The Science Teacher*](https://osf.io/rg6xb/download)
+- [Confidence Updater](http://confidenceupdater.com/) - Web application for tracking confidence levels
 
-## Resources
+## Get Involved
 
-[ABCs of Data Worksheet (v 2.0)](https://docs.google.com/document/d/e/2PACX-1vSate5El-MroaIvAmtRBVHE0iWllNTR6YCZd0gsqZphoSdyW9_vESRRt4gnuoSXwEuMsby9APZLoyuE/pub)
-
-[Confidence Updater web app](www.confidenceupdater.com)
+- [Apply to Project CREDIBLE](https://tiny.utk.edu/credible) - Join our next cohort
+- **Questions?** Email us at [projectcredible@utk.edu](mailto:projectcredible@utk.edu)

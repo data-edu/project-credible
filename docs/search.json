@@ -1,31 +1,52 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "CLAUDE.md",
     "section": "",
-    "text": "Fillable ABCs of Data Worksheet - Interactive Google Doc version\nABCs of Data Printable (PDF) - Download the English version\nABCs of Data - Spanish (PDF) - Download the Spanish version\nEmbracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF) - Science Scope article"
+    "text": "This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.\n\n\nThis is the website for Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments), an NSF-funded STEM education research project. The website is built using Quarto and published to GitHub Pages at projectcredible.com.\n\n\n\n\nQuarto: Static site generator for creating the website from .qmd (Quarto Markdown) files\nR/RStudio: Development environment (evidenced by .Rproj file)\nOutput: Static HTML website generated to the docs/ directory\nDeployment: GitHub Pages (hosted from docs/ directory)\n\n\n\n\n\n\n# Render the entire website (builds all .qmd files to docs/)\nquarto render\n\n# Preview the website with live reload\nquarto preview\n\n# Render a single page\nquarto render index.qmd\nquarto render about.qmd\n\n\n\n\n_quarto.yml: Main configuration file defining website structure, navigation, theme (flatly), and output directory\n*.qmd files: Source content files in Quarto Markdown format\n\nindex.qmd: Homepage with project overview\nabout.qmd: Project abstract and acknowledgments\ncontact.qmd: People and contact information\ncohort-1.qmd, cohort-2.qmd: Resources for teacher cohorts\nresources.qmd, tools-and-resources.qmd: General and specific resource pages\nabc.qmd: ABCs of Data page\nrecruitment.qmd: Recruitment information\n\ndocs/: Build output directory (contains generated HTML, committed to git for GitHub Pages)\nimages/: Image assets referenced in content\nstyles.css: Custom CSS for site styling\n\n\n\n\n\nThe website uses Quarto’s website project type with:\n\nNavigation: Defined in _quarto.yml with left navbar containing:\n\nHome\n“About and Contact” dropdown menu\n“Resources” dropdown menu with links to cohort pages and tools\n\nTheme: Uses the “flatly” Bootstrap theme with custom CSS\nOutput Formats:\n\nPrimary: HTML with table of contents\nSecondary: PDF output configured with XeLaTeX engine\n\nOutput Directory: All rendered content goes to docs/ which is served by GitHub Pages\n\n\n\n\nWhen editing content: 1. Modify the relevant .qmd file 2. Run quarto render to rebuild the site 3. Check the generated HTML in docs/ directory 4. Commit both the source .qmd file and generated docs/ files\n\n\n\n\nThe docs/ directory is tracked in git (not gitignored) because it’s used for GitHub Pages deployment\n.Rproj.user/, .Rhistory, .RData, .Ruserdata, and .quarto/ are gitignored\nThe website URL is projectcredible.com (custom domain configured via CNAME)\nThis is an NSF-funded educational research project (Grant No. 2239152)"
   },
   {
-    "objectID": "resources.html#abcs-of-data-resources",
-    "href": "resources.html#abcs-of-data-resources",
-    "title": "Resources",
+    "objectID": "CLAUDE.html#project-overview",
+    "href": "CLAUDE.html#project-overview",
+    "title": "CLAUDE.md",
     "section": "",
-    "text": "Fillable ABCs of Data Worksheet - Interactive Google Doc version\nABCs of Data Printable (PDF) - Download the English version\nABCs of Data - Spanish (PDF) - Download the Spanish version\nEmbracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF) - Science Scope article"
+    "text": "This is the website for Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments), an NSF-funded STEM education research project. The website is built using Quarto and published to GitHub Pages at projectcredible.com."
   },
   {
-    "objectID": "resources.html#tools",
-    "href": "resources.html#tools",
-    "title": "Resources",
-    "section": "Tools",
-    "text": "Tools\n\nConfidence Updater - Web application for tracking confidence levels"
+    "objectID": "CLAUDE.html#technology-stack",
+    "href": "CLAUDE.html#technology-stack",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "Quarto: Static site generator for creating the website from .qmd (Quarto Markdown) files\nR/RStudio: Development environment (evidenced by .Rproj file)\nOutput: Static HTML website generated to the docs/ directory\nDeployment: GitHub Pages (hosted from docs/ directory)"
   },
   {
-    "objectID": "resources.html#get-involved",
-    "href": "resources.html#get-involved",
-    "title": "Resources",
-    "section": "Get Involved",
-    "text": "Get Involved\n\nApply to Project CREDIBLE - Join our next cohort\nQuestions? Email us at projectcredible@utk.edu"
+    "objectID": "CLAUDE.html#build-and-development-commands",
+    "href": "CLAUDE.html#build-and-development-commands",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "# Render the entire website (builds all .qmd files to docs/)\nquarto render\n\n# Preview the website with live reload\nquarto preview\n\n# Render a single page\nquarto render index.qmd\nquarto render about.qmd\n\n\n\n\n_quarto.yml: Main configuration file defining website structure, navigation, theme (flatly), and output directory\n*.qmd files: Source content files in Quarto Markdown format\n\nindex.qmd: Homepage with project overview\nabout.qmd: Project abstract and acknowledgments\ncontact.qmd: People and contact information\ncohort-1.qmd, cohort-2.qmd: Resources for teacher cohorts\nresources.qmd, tools-and-resources.qmd: General and specific resource pages\nabc.qmd: ABCs of Data page\nrecruitment.qmd: Recruitment information\n\ndocs/: Build output directory (contains generated HTML, committed to git for GitHub Pages)\nimages/: Image assets referenced in content\nstyles.css: Custom CSS for site styling"
+  },
+  {
+    "objectID": "CLAUDE.html#key-website-architecture",
+    "href": "CLAUDE.html#key-website-architecture",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "The website uses Quarto’s website project type with:\n\nNavigation: Defined in _quarto.yml with left navbar containing:\n\nHome\n“About and Contact” dropdown menu\n“Resources” dropdown menu with links to cohort pages and tools\n\nTheme: Uses the “flatly” Bootstrap theme with custom CSS\nOutput Formats:\n\nPrimary: HTML with table of contents\nSecondary: PDF output configured with XeLaTeX engine\n\nOutput Directory: All rendered content goes to docs/ which is served by GitHub Pages"
+  },
+  {
+    "objectID": "CLAUDE.html#content-editing-workflow",
+    "href": "CLAUDE.html#content-editing-workflow",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "When editing content: 1. Modify the relevant .qmd file 2. Run quarto render to rebuild the site 3. Check the generated HTML in docs/ directory 4. Commit both the source .qmd file and generated docs/ files"
+  },
+  {
+    "objectID": "CLAUDE.html#important-notes",
+    "href": "CLAUDE.html#important-notes",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "The docs/ directory is tracked in git (not gitignored) because it’s used for GitHub Pages deployment\n.Rproj.user/, .Rhistory, .RData, .Ruserdata, and .quarto/ are gitignored\nThe website URL is projectcredible.com (custom domain configured via CNAME)\nThis is an NSF-funded educational research project (Grant No. 2239152)"
   },
   {
     "objectID": "tools-and-resources.html",
@@ -144,21 +165,28 @@
     "href": "abc.html",
     "title": "The ABCs of Data",
     "section": "",
-    "text": "The ABCs of Data are a strategy developed by Project CREDIBLE researchers and teachers to support K-12 students to analyze and interpret data. The ABCs of Data consists of three steps that reflect the core aspects of analyzing and interpreting data:\n\nAccount for what you know\nBe open to evidence\nConsider your confidence now\n\nLearn more about the ABCs of Data in this article in NSTA’s The Science Teacher"
+    "text": "Fillable ABCs of Data Worksheet - Interactive Google Doc version\nABCs of Data Printable (PDF) - Download the English version\nABCs of Data - Spanish (PDF) - Download the Spanish version\nEmbracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF) - Science Scope article"
   },
   {
-    "objectID": "abc.html#introduction",
-    "href": "abc.html#introduction",
+    "objectID": "abc.html#abcs-of-data-resources",
+    "href": "abc.html#abcs-of-data-resources",
     "title": "The ABCs of Data",
     "section": "",
-    "text": "The ABCs of Data are a strategy developed by Project CREDIBLE researchers and teachers to support K-12 students to analyze and interpret data. The ABCs of Data consists of three steps that reflect the core aspects of analyzing and interpreting data:\n\nAccount for what you know\nBe open to evidence\nConsider your confidence now\n\nLearn more about the ABCs of Data in this article in NSTA’s The Science Teacher"
+    "text": "Fillable ABCs of Data Worksheet - Interactive Google Doc version\nABCs of Data Printable (PDF) - Download the English version\nABCs of Data - Spanish (PDF) - Download the Spanish version\nEmbracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF) - Science Scope article"
   },
   {
-    "objectID": "abc.html#resources",
-    "href": "abc.html#resources",
+    "objectID": "abc.html#tools",
+    "href": "abc.html#tools",
     "title": "The ABCs of Data",
-    "section": "Resources",
-    "text": "Resources\nABCs of Data Worksheet (v 2.0)\nConfidence Updater web app"
+    "section": "Tools",
+    "text": "Tools\n\nConfidence Updater - Web application for tracking confidence levels"
+  },
+  {
+    "objectID": "abc.html#get-involved",
+    "href": "abc.html#get-involved",
+    "title": "The ABCs of Data",
+    "section": "Get Involved",
+    "text": "Get Involved\n\nApply to Project CREDIBLE - Join our next cohort\nQuestions? Email us at projectcredible@utk.edu"
   },
   {
     "objectID": "about.html#project-abstract",
