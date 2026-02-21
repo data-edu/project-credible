@@ -13,6 +13,11 @@ title: "The ABCs of Data"
 
 - [Confidence Updater](http://confidenceupdater.com/) - Web application for tracking confidence levels
 
+### Web Apps (Can be integrated into CODAP)
+
+- [Credibility Updater](https://ed-analytics.shinyapps.io/confidence-updater/) - Interactive tool for updating credibility assessments
+- [CREDIBLE Local Data](https://ed-analytics.shinyapps.io/credible-local-data/) - Tool for working with local data in the CREDIBLE framework
+
 ## Get Involved
 
 - [Apply to Project CREDIBLE](https://tiny.utk.edu/credible) - Join our next cohort

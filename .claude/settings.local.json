@@ -4,7 +4,8 @@
       "Bash(quarto render:*)",
       "Bash(ls:*)",
       "Bash(grep:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(python3:*)"
     ]
   }
 }
