@@ -33,13 +33,16 @@ quarto render about.qmd
 
 - **`_quarto.yml`**: Main configuration file defining website structure, navigation, theme (flatly), and output directory
 - **`*.qmd` files**: Source content files in Quarto Markdown format
-  - `index.qmd`: Homepage with project overview
-  - `about.qmd`: Project abstract and acknowledgments
-  - `contact.qmd`: People and contact information
-  - `cohort-1.qmd`, `cohort-2.qmd`: Resources for teacher cohorts
-  - `resources.qmd`, `tools-and-resources.qmd`: General and specific resource pages
-  - `abc.qmd`: ABCs of Data page
-  - `recruitment.qmd`: Recruitment information
+  - `index.qmd`: Homepage with project overview and mission
+  - `about.qmd`: Comprehensive page with mission, team, partners, advisory board, and FAQs
+  - `contact.qmd`: Contact information
+  - `class-2025-26.qmd`: Current educator network resources
+  - `teacher-leaders.qmd`: Teacher leader bios
+  - `cohort-1.qmd`: Archived past cohort resources (linked in footer)
+  - `abc.qmd`: ABCs of Data framework and resources
+  - `tools-and-resources.qmd`: Additional teaching tools
+  - `news.qmd`: News and events
+  - `get-involved.qmd`: How to join or contribute to the project
 - **`docs/`**: Build output directory (contains generated HTML, committed to git for GitHub Pages)
 - **`images/`**: Image assets referenced in content
 - **`styles.css`**: Custom CSS for site styling
@@ -50,8 +53,12 @@ The website uses Quarto's website project type with:
 
 1. **Navigation**: Defined in `_quarto.yml` with left navbar containing:
    - Home
-   - "About and Contact" dropdown menu
-   - "Resources" dropdown menu with links to cohort pages and tools
+   - About
+   - "Educator Network" dropdown menu (2025-26 Class, Teacher Leaders, ABCs of Data, Tools)
+   - News & Events
+   - Get Involved
+   - Contact
+   - Footer with link to past cohorts
 
 2. **Theme**: Uses the "flatly" Bootstrap theme with custom CSS
 
@@ -74,4 +81,5 @@ When editing content:
 - The `docs/` directory is tracked in git (not gitignored) because it's used for GitHub Pages deployment
 - `.Rproj.user/`, `.Rhistory`, `.RData`, `.Ruserdata`, and `.quarto/` are gitignored
 - The website URL is projectcredible.com (custom domain configured via CNAME)
+- **CNAME file**: The `CNAME` file in the project root is automatically copied to `docs/` during rendering (configured in `_quarto.yml` under `project.resources`). This prevents the custom domain from being reset after each deployment.
 - This is an NSF-funded educational research project (Grant No. 2239152)

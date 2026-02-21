@@ -242,13 +242,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><strong><code>_quarto.yml</code></strong>: Main configuration file defining website structure, navigation, theme (flatly), and output directory</li>
 <li><strong><code>*.qmd</code> files</strong>: Source content files in Quarto Markdown format
 <ul>
-<li><code>index.qmd</code>: Homepage with project overview</li>
-<li><code>about.qmd</code>: Project abstract and acknowledgments</li>
-<li><code>contact.qmd</code>: People and contact information</li>
-<li><code>cohort-1.qmd</code>, <code>cohort-2.qmd</code>: Resources for teacher cohorts</li>
-<li><code>resources.qmd</code>, <code>tools-and-resources.qmd</code>: General and specific resource pages</li>
-<li><code>abc.qmd</code>: ABCs of Data page</li>
-<li><code>recruitment.qmd</code>: Recruitment information</li>
+<li><code>index.qmd</code>: Homepage with project overview and mission</li>
+<li><code>about.qmd</code>: Comprehensive page with mission, team, partners, advisory board, and FAQs</li>
+<li><code>contact.qmd</code>: Contact information</li>
+<li><code>class-2025-26.qmd</code>: Current educator network resources</li>
+<li><code>teacher-leaders.qmd</code>: Teacher leader bios</li>
+<li><code>cohort-1.qmd</code>: Archived past cohort resources (linked in footer)</li>
+<li><code>abc.qmd</code>: ABCs of Data framework and resources</li>
+<li><code>tools-and-resources.qmd</code>: Additional teaching tools</li>
+<li><code>news.qmd</code>: News and events</li>
+<li><code>get-involved.qmd</code>: How to join or contribute to the project</li>
 </ul></li>
 <li><strong><code>docs/</code></strong>: Build output directory (contains generated HTML, committed to git for GitHub Pages)</li>
 <li><strong><code>images/</code></strong>: Image assets referenced in content</li>
@@ -263,8 +266,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><p><strong>Navigation</strong>: Defined in <code>_quarto.yml</code> with left navbar containing:</p>
 <ul>
 <li>Home</li>
-<li>“About and Contact” dropdown menu</li>
-<li>“Resources” dropdown menu with links to cohort pages and tools</li>
+<li>About</li>
+<li>“Educator Network” dropdown menu (2025-26 Class, Teacher Leaders, ABCs of Data, Tools)</li>
+<li>News &amp; Events</li>
+<li>Get Involved</li>
+<li>Contact</li>
+<li>Footer with link to past cohorts</li>
 </ul></li>
 <li><p><strong>Theme</strong>: Uses the “flatly” Bootstrap theme with custom CSS</p></li>
 <li><p><strong>Output Formats</strong>:</p>
@@ -285,6 +292,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>The <code>docs/</code> directory is tracked in git (not gitignored) because it’s used for GitHub Pages deployment</li>
 <li><code>.Rproj.user/</code>, <code>.Rhistory</code>, <code>.RData</code>, <code>.Ruserdata</code>, and <code>.quarto/</code> are gitignored</li>
 <li>The website URL is projectcredible.com (custom domain configured via CNAME)</li>
+<li><strong>CNAME file</strong>: The <code>CNAME</code> file in the project root is automatically copied to <code>docs/</code> during rendering (configured in <code>_quarto.yml</code> under <code>project.resources</code>). This prevents the custom domain from being reset after each deployment.</li>
 <li>This is an NSF-funded educational research project (Grant No.&nbsp;2239152)</li>
 </ul>
 
