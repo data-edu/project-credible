@@ -256,7 +256,11 @@
     "href": "abc.html#tools",
     "title": "The ABCs of Data",
     "section": "Tools",
+<<<<<<< HEAD
     "text": "Tools\n\nWeb Apps\nCan be integrated into CODAP\n\nCredibility Updater - Interactive tool for updating credibility assessments\nCREDIBLE Local Data - Tool for working with local data in the CREDIBLE framework"
+=======
+    "text": "Tools\n\nConfidence Updater - Web application for tracking confidence levels\n\n\nWeb Apps (Can be integrated into CODAP)\n\nCredibility Updater - Interactive tool for updating credibility assessments\nCREDIBLE Local Data - Tool for working with local data in the CREDIBLE framework"
+>>>>>>> origin/main
   },
   {
     "objectID": "abc.html#get-involved",
