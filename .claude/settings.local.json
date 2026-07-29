@@ -5,7 +5,11 @@
       "Bash(ls:*)",
       "Bash(grep:*)",
       "Bash(cat:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Read(//Applications/quarto/bin/**)",
+      "Read(//Applications/**)",
+      "Bash(\"/Applications/RStudio.app/Contents/Resources/app/quarto/bin/quarto\" render *)",
+      "Bash(git add *)"
     ]
   }
 }

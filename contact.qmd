@@ -3,48 +3,48 @@ title: "People and Contact Information"
 format-links: false
 ---
 
-![](images/IMG_6931-01.jpeg){fig-align="center"}
+![](images/Image-2.jpeg)
 
 ## University of Tennessee, Knoxville Team
 
 **Contact**: [projectcredible\@utk.edu](mailto:projectcredible@utk.edu)
 
--   *Joshua Rosenberg* ([jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu))*,* Associate Professor of STEM Education, University of Tennessee, Knoxville
--   *Cody Pritchard* ([cpritc12\@vols.utk.edu](mailto:cpritc12@vols.utk.edu)), Graduate Research Assistant, University of Tennessee, Knoxville
--   *Amanda Garner* ([ahendr21\@vols.utk.edu](mailto:ahendr21@vols.utk.edu)), Research Scientist, University of Tennessee, Knoxville
+- *Joshua Rosenberg* ([jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu))*,* Associate Professor of STEM Education, University of Tennessee, Knoxville
+- *Cody Pritchard* ([cpritc12\@vols.utk.edu](mailto:cpritc12@vols.utk.edu)), Graduate Research Assistant, University of Tennessee, Knoxville
+- *Amanda Garner* ([ahendr21\@vols.utk.edu](mailto:ahendr21@vols.utk.edu)), Research Scientist, University of Tennessee, Knoxville
 
 ## Data Classroom Team
 
 **Contact**: [info\@dataclassroom.com](mailto:info@dataclassroom.com)
 
--   *Aaron Reedy*
--   *Dan Temple*
--   *Nigel Standish*
+- *Aaron Reedy*
+- *Dan Temple*
+- *Nigel Standish*
 
 ## Great Smoky Mountains Institute at Tremont Team
 
 **Contact**: <https://gsmit.org/about/contact-us/>
 
--   *John DiDiego*
--   *Annie Roth*
+- *John DiDiego*
+- *Annie Roth*
 
 ## Cohort 1 Teacher Partners
 
--   *Jani Chollman*
--   *Joanna Hughes*
--   *Robin Jarmen*
--   *David Krebs*
--   *Renita Parks*
--   *Jennifer Sauer*
--   *Sheryl Snellmassie*
--   *Heather Sexton*
--   *Michelle Platt*
--   *Heather Williams*
+- *Jani Chollman*
+- *Joanna Hughes*
+- *Robin Jarmen*
+- *David Krebs*
+- *Renita Parks*
+- *Jennifer Sauer*
+- *Sheryl Snellmassie*
+- *Heather Sexton*
+- *Michelle Platt*
+- *Heather Williams*
 
 ## Advisory Board Members
 
--   *Joy Bertling*
--   *Todd Campbell*
--   *Mine Dogucu*
--   *Richard Lehrer*
--   *Michelle Wilkerson*
+- *Joy Bertling*
+- *Todd Campbell*
+- *Mine Dogucu*
+- *Richard Lehrer*
+- *Michelle Wilkerson*

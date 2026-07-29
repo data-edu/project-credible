@@ -3,11 +3,7 @@ title: "Creatively Reimagining Engagement With Data in Biology Learning Environm
 format-links: false
 ---
 
-::: callout
-2025-26 Class members – find project materials [here](class-2025-26.qmd)!
-:::
-
-![](images/IMG_6819-01.jpeg){fig-align="center" width="511"}
+/![](images/IMG_1266.jpeg)
 
 Welcome to the **Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments)** website.
 
@@ -19,23 +15,23 @@ Project CREDIBLE is a research-practice partnership intended to advance how midd
 
 We focus on four core aspects:
 
-1. **The Data Investigation Cycle** — From posing questions to communicating conclusions
-2. **Place-Based Education** — Using local environments as assets for learning
-3. **Thinking Probabilistically** — Moving beyond "right" or "wrong" to embrace uncertainty
-4. **Ambitious Science Teaching** — Engaging students with big ideas and their own thinking
+1.  **The Data Investigation Cycle and Core Statistical Ideas** — From posing questions to communicating conclusions alongside core statistical ideas, such as variability
+2.  **Place-Based Education** — Using local environments as assets for learning
+3.  **Thinking Probabilistically** — Moving beyond "right" or "wrong" to embrace uncertainty
+4.  **Ambitious Science Teaching** — Engaging students with big ideas and their own thinking
 
 ## Explore the Site
 
--   [About](about.qmd) — Learn about our mission, team, partners, and advisory board
+- [About](about.qmd) — Learn about our mission, team, partners, and advisory board
 
--   [Educator Network](class-2025-26.qmd) — Resources for our 2025-26 class and teacher leaders
+- [Educator Network](class-2025-26.qmd) — Resources for our 2025-26 class and teacher leaders
 
--   [The ABCs of Data](abc.qmd) — Our framework for data analysis and interpretation
+- [The ABCs of Data](abc.qmd) — Our framework for data analysis and interpretation
 
--   [News & Events](news.qmd) — Updates, publications, and upcoming events
+- [News & Events](news.qmd) — Updates, publications, and upcoming events
 
--   [Get Involved](get-involved.qmd) — Join our educator network or contribute to the project
+- [Get Involved](get-involved.qmd) — Join our educator network or contribute to the project
 
--   [Contact](contact.qmd) — Get in touch with our team
+- [Contact](contact.qmd) — Get in touch with our team
 
 ![](images/CredibleMaster-02.jpg){width="125" height="125"} ![](images/utk.png){width="173"} ![](images/clipboard-236040836.png){width="100" height="100"}

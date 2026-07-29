@@ -178,8 +178,8 @@
     "objectID": "news.html#section",
     "href": "news.html#section",
     "title": "News & Events",
-    "section": "2025",
-    "text": "2025\n\nFebruary 2025\n\nWebsite Launch - Project CREDIBLE launches its redesigned website with expanded resources for educators and information about our research-practice partnership."
+    "section": "2026",
+    "text": "2026\nJuly\nWe had our third professional learning event at the Great Smoky Mountains Institute at Tremont! /"
   },
   {
     "objectID": "news.html#upcoming-events",
@@ -242,25 +242,21 @@
     "href": "abc.html",
     "title": "The ABCs of Data",
     "section": "",
-    "text": "Fillable ABCs of Data Worksheet - Interactive Google Doc version\nABCs of Data Printable (PDF) - Download the English version\nABCs of Data - Spanish (PDF) - Download the Spanish version\nEmbracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF) - Science Scope article"
+    "text": "Fillable ABCs of Data Worksheet - Interactive Google Doc version\nEmbracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF) - Science Scope article\n\n\n\nThe ABCs of Data printable is available in three languages:\n\nEnglish – The ABCs of Data\nEspañol – El ABC De Los Datos\nDeutsch – Das ABC Der Daten"
   },
   {
     "objectID": "abc.html#abcs-of-data-resources",
     "href": "abc.html#abcs-of-data-resources",
     "title": "The ABCs of Data",
     "section": "",
-    "text": "Fillable ABCs of Data Worksheet - Interactive Google Doc version\nABCs of Data Printable (PDF) - Download the English version\nABCs of Data - Spanish (PDF) - Download the Spanish version\nEmbracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF) - Science Scope article"
+    "text": "Fillable ABCs of Data Worksheet - Interactive Google Doc version\nEmbracing Uncertainty in Science: The ABCs of Data and the Confidence Updater (PDF) - Science Scope article\n\n\n\nThe ABCs of Data printable is available in three languages:\n\nEnglish – The ABCs of Data\nEspañol – El ABC De Los Datos\nDeutsch – Das ABC Der Daten"
   },
   {
     "objectID": "abc.html#tools",
     "href": "abc.html#tools",
     "title": "The ABCs of Data",
     "section": "Tools",
-<<<<<<< HEAD
-    "text": "Tools\n\nWeb Apps\nCan be integrated into CODAP\n\nCredibility Updater - Interactive tool for updating credibility assessments\nCREDIBLE Local Data - Tool for working with local data in the CREDIBLE framework"
-=======
-    "text": "Tools\n\nConfidence Updater - Web application for tracking confidence levels\n\n\nWeb Apps (Can be integrated into CODAP)\n\nCredibility Updater - Interactive tool for updating credibility assessments\nCREDIBLE Local Data - Tool for working with local data in the CREDIBLE framework"
->>>>>>> origin/main
+    "text": "Tools\nCan be integrated into CODAP\n\nCredibility Updater - Interactive tool for updating credibility assessments\nCREDIBLE Local Data - Tool for working with local data in the CREDIBLE framework"
   },
   {
     "objectID": "abc.html#get-involved",
@@ -274,14 +270,14 @@
     "href": "index.html",
     "title": "Creatively Reimagining Engagement With Data in Biology Learning Environments",
     "section": "",
-    "text": "2025-26 Class members – find project materials here!\nWelcome to the Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments) website."
+    "text": "/\nWelcome to the Project CREDIBLE (Creatively Reimagining Engagement With Data in Biology Learning Environments) website."
   },
   {
     "objectID": "index.html#our-mission",
     "href": "index.html#our-mission",
     "title": "Creatively Reimagining Engagement With Data in Biology Learning Environments",
     "section": "Our Mission",
-    "text": "Our Mission\nProject CREDIBLE is a research-practice partnership intended to advance how middle and high school students use data in science classes. Funded by the National Science Foundation, we bring together teachers, researchers at the University of Tennessee, Knoxville, the Great Smoky Mountains Institute at Tremont, and DataClassroom to transform data literacy in STEM education.\n\nOur Approach\nWe focus on four core aspects:\n\nThe Data Investigation Cycle — From posing questions to communicating conclusions\nPlace-Based Education — Using local environments as assets for learning\nThinking Probabilistically — Moving beyond “right” or “wrong” to embrace uncertainty\nAmbitious Science Teaching — Engaging students with big ideas and their own thinking"
+    "text": "Our Mission\nProject CREDIBLE is a research-practice partnership intended to advance how middle and high school students use data in science classes. Funded by the National Science Foundation, we bring together teachers, researchers at the University of Tennessee, Knoxville, the Great Smoky Mountains Institute at Tremont, and DataClassroom to transform data literacy in STEM education.\n\nOur Approach\nWe focus on four core aspects:\n\nThe Data Investigation Cycle and Core Statistical Ideas — From posing questions to communicating conclusions alongside core statistical ideas, such as variability\nPlace-Based Education — Using local environments as assets for learning\nThinking Probabilistically — Moving beyond “right” or “wrong” to embrace uncertainty\nAmbitious Science Teaching — Engaging students with big ideas and their own thinking"
   },
   {
     "objectID": "index.html#explore-the-site",
@@ -359,5 +355,33 @@
     "title": "Get Involved",
     "section": "Contact Us",
     "text": "Contact Us\nTogether, we can reimagine how students engage with science and data, helping them become more informed, inquisitive, and empowered citizens.\nWe hope you’ll join us on this adventure! Please reach out to projectcredible@utk.edu or Principal Investigator Joshua Rosenberg (jrosenb8@utk.edu), Associate Professor of STEM Education at University of Tennessee, Knoxville."
+  },
+  {
+    "objectID": "news.html#section-1",
+    "href": "news.html#section-1",
+    "title": "News & Events",
+    "section": "2025",
+    "text": "2025\nJuly\nYear 2, back at Tremont!"
+  },
+  {
+    "objectID": "news.html#section-2",
+    "href": "news.html#section-2",
+    "title": "News & Events",
+    "section": "2025",
+    "text": "2025\nJuly\nOur first year out at the Great Smoky Mountains Institute at Tremont."
+  },
+  {
+    "objectID": "news.html#publications",
+    "href": "news.html#publications",
+    "title": "News & Events",
+    "section": "Publications",
+    "text": "Publications\n\nJournal Articles\nRosenberg, J. M., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C., Garner, A. V., & Xu, Z. (2026). Embracing uncertainty in science: The ABCs of data and the confidence updater. Science Scope, 49(1), 44–50. https://doi.org/10.1080/08872376.2025.2601357\nRosenberg, J., Bonvini, M., Bray, A., Gong, R., & Yu, B. (2026). Teaching veridical data science: A panel interview with Matteo Bonvini, Andrew Bray, Ruobin Gong and Bin Yu. Journal of Statistics and Data Science Education, 34(2), 127–143. https://doi.org/10.1080/26939169.2026.2632565\nFischer, M., Pritchard, C., Xu, Z., & Rosenberg, J. (2025). Finding your way into data science education as a science teacher. The Science Teacher, 92(6), 49–55. https://doi.org/10.1080/00368555.2025.2558519\nDogucu, M., Kazak, S., & Rosenberg, J. M. (2024). The design and implementation of a Bayesian data analysis lesson for pre-service mathematics and science teachers. Journal of Statistics and Data Science Education, 1–12. https://doi.org/10.1080/26939169.2024.2362148\nRosenberg, J., & Jones, R. S. (2024). Data science learning in grades K–12: Synthesizing research across divides. Harvard Data Science Review, 6(3). https://doi.org/10.1162/99608f92.b1233596\n\n\nBook Chapters\nXu, Z., Kubsch, M., Sadler, T. D., Sorge, S., & Rosenberg, J. (in press). Reasoning with uncertainty in socioscientific issues: A Bayesian approach to SSI instruction. In Heuckmann et al. (Eds.), Understanding uncertainty in science: A companion for science educators. Oxford University Press.\n\n\nConference Proceedings\nRosenbaum, L. F., & Pritchard, C. C. (2026). “A beautiful little thing for you”: Emergent data visualizations as contextually responsive invitations to data reasoning. Proceedings of the 20th International Conference of the Learning Sciences (ICLS) 2026, 2746–2748.\nRosenbaum, L. F., Pritchard, C. C., Lanouette, K., Rosenberg, J. M., & Blikstein, P. (2026). “The amount of people that like hotdogs or hamburgers”: How youth characterize what data is and what they can do with it. Proceedings of the 20th International Conference of the Learning Sciences (ICLS) 2026, 1602–1606."
+  },
+  {
+    "objectID": "news.html#presentations",
+    "href": "news.html#presentations",
+    "title": "News & Events",
+    "section": "Presentations",
+    "text": "Presentations\n\n2026\nGarner, A., Rosenbaum, L., Rosenberg, J. M., Xu, Z., & Jones, K. (2026, April). From creekbeds to confidence: How place-based professional learning expands teacher perspectives on place and data [Paper presentation]. NARST 2026 Annual International Conference, Seattle, WA.\nRosenberg, J. M., Benz, G., & Lee, V. (2026, April). Why does dealing with data really matter? Benefits and the conditions that support them [Roundtable presentation]. NARST 2026 Annual International Conference, Seattle, WA.\nXu, Z., Rosenberg, J., Pritchard, C., Krebs, D., Sauer, J., Parker, A., & Hensley, K. (2026, April). Challenges and affordances in engaging K–12 students in authentic data investigations [Poster presentation]. NARST 2026 Annual International Conference, Seattle, WA.\nGarner, A. V. (2026). From creekbeds to confidence [Presentation]. Great Smoky Mountains National Park Science Colloquium, Gatlinburg, TN.\nGarner, A. V. (2026). ABCs of data literacy [Presentation]. Center for Science Outreach, Vanderbilt University, Nashville, TN.\nGarner, A. V., Kumar, V., Ali, S., & Whipple, B. (2026). AI and waste [Presentation]. Blount County Schools, Maryville, TN.\n\n\n2025\nXu, Z., Sauer, J., Krebs, D., & Roth, A. (2025, September). Better together: Researchers, teachers, and nonprofits collaborate for place-based education [Presentation]. Tennessee Environmental Education Association 2025 Annual Conference, Chattanooga, TN.\nSauer, J., & Krebs, D. (2025, September). Finding clarity in chaos: Student data in place-based science learning [Presentation]. Tennessee Environmental Education Association 2025 Annual Conference, Chattanooga, TN."
   }
 ]
